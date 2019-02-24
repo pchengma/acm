@@ -1,2 +1,2 @@
 # exercise
-Record of every interesting programs.
+Record every interesting program.
