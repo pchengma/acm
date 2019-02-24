@@ -1,2 +1,2 @@
 # exercise
-Coding exercises
+Record of every interesting programs.
