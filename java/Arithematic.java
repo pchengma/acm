@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Arithematic {
 
     // By bit-wise operation, or say, the Fourier series
