@@ -1,7 +1,7 @@
 public class Arithematic {
 
     // By bit-wise operation, or say, the Fourier series
-    static double m_pow(double a, int b) {
+    double m_pow(double a, int b) {
         double result = 1;
         if (b == 0) {
             return 1;
