@@ -2,6 +2,7 @@ import time
 
 
 def use_time():
+    """print out time in seconds """
     a = 1
     b = 2
     cpu_start = time.clock()
