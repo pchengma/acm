@@ -1,4 +1,4 @@
-package core.java;
+package exercise;
 
 import java.awt.Color;
 import java.awt.Graphics;
