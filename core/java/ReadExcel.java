@@ -11,7 +11,7 @@ import java.util.List;
 
 public class ReadExcel {
 
-    public void readExcel() throws IOException {
+    public void readSheets() throws IOException {
         File file = new File("/Users/ma/Downloads/demo.xlsx");
         FileInputStream inputStream = new FileInputStream(file);
         Workbook wb = new XSSFWorkbook(inputStream);
