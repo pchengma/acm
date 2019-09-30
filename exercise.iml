@@ -5,13 +5,14 @@
       <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.7 (tensorflow)" jdkType="Python SDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/NetBeansProjects/JavaApplication1/commons-collections4-4.2.jar!/" />
         </CLASSES>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
@@ -20,6 +21,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/NetBeansProjects/JavaApplication1/poi-4.0.1.jar!/" />
         </CLASSES>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
@@ -28,6 +30,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/NetBeansProjects/JavaApplication1/poi-ooxml-4.0.1.jar!/" />
         </CLASSES>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
@@ -36,6 +39,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/NetBeansProjects/JavaApplication1/xmlbeans-3.0.2.jar!/" />
         </CLASSES>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
@@ -44,6 +48,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/NetBeansProjects/JavaApplication1/commons-compress-1.18.jar!/" />
         </CLASSES>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
@@ -52,6 +57,7 @@
         <CLASSES>
           <root url="jar://$USER_HOME$/NetBeansProjects/JavaApplication1/poi-ooxml-schemas-4.0.1.jar!/" />
         </CLASSES>
+        <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
