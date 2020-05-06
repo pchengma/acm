@@ -34,6 +34,7 @@ int main() {
     // addr of a basic data type can be assigned to a pointer/object in this way.
     int *f;  // Remember an addr can only be assigned to a pointer.
     f = &a;
-
+    // addr of a pointer can also be assigned to another pointer
+    f = e;
     return 0;
 }
