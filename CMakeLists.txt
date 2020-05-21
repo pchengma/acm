@@ -3,4 +3,4 @@ project(wind)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(gf_mat c/arithmetic/gf_mat.c)
+add_executable(gf_mat c/arithmetic/gf/gf_mat.c)

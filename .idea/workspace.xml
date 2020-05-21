@@ -11,12 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/c/ptr/ptr.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c/ptr/ptr.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpp/basic/learn_pointer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cpp/ptr/ptr.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
       <updated>1587611407083</updated>
       <workItem from="1587611408416" duration="1858000" />
       <workItem from="1588746242073" duration="264000" />
-      <workItem from="1590026749209" duration="1086000" />
+      <workItem from="1590026749209" duration="1328000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -106,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590030060096</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added codes.">
+      <created>1590030314500</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590030314500</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,12 +125,12 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="324" y="64" key="CommitChangelistDialog2" timestamp="1590030059998">
+    <state x="324" y="64" key="CommitChangelistDialog2" timestamp="1590030314355">
       <screen x="37" y="23" width="1403" height="877" />
     </state>
     <state x="322" y="64" key="CommitChangelistDialog2/35.23.1405.877@35.23.1405.877" timestamp="1588746492671" />
     <state x="323" y="64" key="CommitChangelistDialog2/36.23.1404.877@36.23.1404.877" timestamp="1590029941832" />
-    <state x="324" y="64" key="CommitChangelistDialog2/37.23.1403.877@37.23.1403.877" timestamp="1590030059998" />
+    <state x="324" y="64" key="CommitChangelistDialog2/37.23.1403.877@37.23.1403.877" timestamp="1590030314355" />
     <state x="340" y="201" key="Vcs.Push.Dialog.v2" timestamp="1590030068462">
       <screen x="37" y="23" width="1403" height="877" />
     </state>
