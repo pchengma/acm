@@ -104,17 +104,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add codes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581180577772">
+    <state x="323" y="64" key="CommitChangelistDialog2" timestamp="1590029941832">
       <screen x="36" y="23" width="1404" height="877" />
     </state>
-    <state x="476" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/36.23.1404.877@36.23.1404.877" timestamp="1581180577772" />
-    <state x="322" y="64" key="CommitChangelistDialog2" timestamp="1588746492671">
-      <screen x="35" y="23" width="1405" height="877" />
-    </state>
     <state x="322" y="64" key="CommitChangelistDialog2/35.23.1405.877@35.23.1405.877" timestamp="1588746492671" />
-    <state x="338" y="201" key="Vcs.Push.Dialog.v2" timestamp="1588746496993">
-      <screen x="35" y="23" width="1405" height="877" />
+    <state x="323" y="64" key="CommitChangelistDialog2/36.23.1404.877@36.23.1404.877" timestamp="1590029941832" />
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2" timestamp="1590029950497">
+      <screen x="36" y="23" width="1404" height="877" />
     </state>
     <state x="338" y="201" key="Vcs.Push.Dialog.v2/35.23.1405.877@35.23.1405.877" timestamp="1588746496993" />
+    <state x="339" y="201" key="Vcs.Push.Dialog.v2/36.23.1404.877@36.23.1404.877" timestamp="1590029950497" />
   </component>
 </project>
