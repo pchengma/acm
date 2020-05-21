@@ -5,7 +5,7 @@ using namespace std;
 int main() {
 
     // 1.1 Test assigning addr of variable a to variable b:
-    int a = 1;  // basic data type
+    int a = 1;  // ptr data type
     int b = a;  // value of a is assigned to variable b
     // addr of a is not equal to addr of b, so assigning addr can be done in this way.
     std::cout << &a << std::endl;  // 0x7ffeefaa993c
@@ -27,11 +27,11 @@ int main() {
     std::cout << *(c + 1) << std::endl;  // 2
     std::cout << *(d + 1) << std::endl;  // 2
 
-    // 1.3 Test assigning addr of a pointer/object or a basic data type to a pointer/object:
+    // 1.3 Test assigning addr of a pointer/object or a ptr data type to a pointer/object:
     // addr of a pointer/object can be assigned to another pointer/object in this way.
     int *e;  // Remember an addr can only be assigned to a pointer.
     e = c;
-    // addr of a basic data type can be assigned to a pointer/object in this way.
+    // addr of a ptr data type can be assigned to a pointer/object in this way.
     int *f;  // Remember an addr can only be assigned to a pointer.
     f = &a;
     // addr of a pointer can also be assigned to another pointer
