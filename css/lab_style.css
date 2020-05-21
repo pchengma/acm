@@ -1,0 +1,107 @@
+body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.details-1 {
+    position: fixed;
+    top: 15%;
+    left: 5%;
+    width: -moz-fit-content;
+    width: fit-content;
+    font-size: 20px;
+}
+
+.details-1 ::-webkit-details-marker {
+    display: none;
+}
+
+.keyboard-base {
+    position: fixed;
+    padding: 20px;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(179, 177, 177, 0.48);
+    box-sizing: border-box;
+    box-shadow: 0 35px 45px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    /* grid layout */
+    display: grid;
+    grid-template-columns: repeat(18, 50px);
+    grid-template-rows: repeat(3, 50px);
+    grid-gap: 1px;
+}
+
+.key {
+    background-color: rgba(163, 163, 163, 0.16);
+    border: 0 solid;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 30%;
+}
+
+.key:hover {
+    border: 1px solid rgba(95, 55, 55, 0.88);
+    text-shadow: antiquewhite;
+}
+
+.La-Lu {
+    padding-top: 35%;
+    font-size: 16px;
+}
+
+.box {
+    position: fixed;
+    /* only need top and left to determine the position */
+    top: 50%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+    width: 150px;
+    padding: 40px;
+    background: rgba(0, 0, 0, .8);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+    border-radius: 10px;
+}
+
+.box .inputBox {
+    position: relative;
+}
+
+.box .inputBox input {
+    width: 100%;
+    padding: 15px 0;
+    font-size: 16px;
+    color: #ffffff;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    outline: none;
+    background: transparent;
+}
+
+.box .inputBox label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 12px;
+    color: #ffffff;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.box .inputBox input:focus ~ label,
+.box .inputBox input:valid ~ label {
+    top: -14px;
+    left: 0;
+    color: #03a9f4;
+    font-size: 10px;
+}
