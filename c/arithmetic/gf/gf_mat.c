@@ -4,7 +4,7 @@ unsigned char gf_add_built_in_xor(unsigned char a, unsigned char b) {
     return a ^ b;
 }
 
-unsigned char gf_mul_by_built_in_xor(unsigned char a, unsigned char b) {
+unsigned char gf_mul_naive(unsigned char a, unsigned char b) {
     unsigned char res = 0u;
     while (b) {
         if (b & 1u) {
