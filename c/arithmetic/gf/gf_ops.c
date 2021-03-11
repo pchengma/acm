@@ -1,11 +1,12 @@
-#include "gf_mat.h"
+#include <stdio.h>
+#include <stdint.h>
 
 unsigned char gf_add_built_in_xor(unsigned char a, unsigned char b) {
     return a ^ b;
 }
 
-unsigned char gf_mul_naive(unsigned char a, unsigned char b) {
-    unsigned char res = 0u;
+uint8_t gf_mul_naive(uint8_t a, uint8_t b) {
+    uint8_t res = 0u;
     while (b) {
         if (b & 1u) {
             res ^= a;
