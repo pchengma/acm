@@ -27,7 +27,7 @@ uint8_t gf_mul_naive(uint8_t a, uint8_t b) {
  * return inv of b
  * There must be a pair of int x and y.
  */
-int gf_inv_by_built_in(unsigned int a, unsigned int b, unsigned int *x, unsigned int *y) {
+uint8_t gf_inv_naive(uint8_t a, uint8_t b, uint8_t *x, uint8_t *y) {
     // Base Case
     if (a == 0) {
         *x = 0;
@@ -35,8 +35,8 @@ int gf_inv_by_built_in(unsigned int a, unsigned int b, unsigned int *x, unsigned
         return b;
     }
 
-    unsigned int x1, y1; // To store results of recursive call
-    int gcd = gf_inv_by_built_in(b % a, a, &x1, &y1);
+    uint8_t x1, y1; // To store results of recursive call
+    uint8_t gcd = gf_inv_naive(b % a, a, &x1, &y1);
 
     // Update x and y using results of recursive
     // call
