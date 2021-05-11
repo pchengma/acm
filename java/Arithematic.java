@@ -1,6 +1,6 @@
 public class Arithematic {
 
-    // By bit-wise operation, or say, the Fourier series
+    // By bit-wise operation
     double m_pow(double a, int b) {
         double result = 1;
         if (b == 0) {
