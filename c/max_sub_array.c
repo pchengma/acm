@@ -8,7 +8,7 @@ int max_sub_array(int nums[N]) {
   
     for (i = 0; i < N; ++i) {
         if (max <= nums[i]) {
-            max = nums[i]
+            max = nums[i];
         } else {
             if (max + nums[i] >= max) {
                 max += nums[i];
