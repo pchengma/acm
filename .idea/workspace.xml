@@ -5,11 +5,44 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cc/array/maxSubArray.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cc/map/containsDuplicate.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/arithmetic/gf/gf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/arithmetic/gf/lu.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/arithmetic/linalg/mat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c/arithmetic/linalg/mat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/array/max_prod.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/array/max_prod.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cnt/cnt.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/cnt/cnt.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/cnt/cnt_char.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/cnt/cnt_char.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/disjoint_set.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/disjoint_set.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/find.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/get_character.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/get_character.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/math/cube_root.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/math/cube_root.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/math/drink.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/math/drink.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/math/gcd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/math/gcd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/math/self_gaurd.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/math/self_gaurd.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/prefix.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/prefix.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/ptr/ptr.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/cc/ptr/ptr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/last_str_len.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/last_str_len.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/reverse_char.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/reverse_char.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/reverse_num.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/reverse_num.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/sort_char.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/sort_char.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/split_str.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/split_str.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/str_array.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/str_array.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpp/str/str_reverse.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/str/str_reverse.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/lab_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/login_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/struct_go.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +62,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1XX7Hdz2A5omtrnXFBv0LNOdmPL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,26 +80,27 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/c" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cpp/str" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/c/arithmetic/gf" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cpp/str" />
       <recent name="$PROJECT_DIR$/c" />
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/c/arithmetic/gf" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -84,6 +121,8 @@
       <workItem from="1590030554519" duration="94000" />
       <workItem from="1590030728789" duration="455000" />
       <workItem from="1620776110404" duration="223000" />
+      <workItem from="1621946050205" duration="125000" />
+      <workItem from="1638883801089" duration="702000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -141,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620776328202</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added str_reverse.cc.">
+      <created>1621946165925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621946165925</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +208,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Add codes" />
     <MESSAGE value="Added codes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added codes." />
+    <MESSAGE value="Added str_reverse.cc." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added str_reverse.cc." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

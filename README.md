@@ -1,12 +1,14 @@
 # ACM
 
 ### Daily
+
 Record every interesting program.
 
-#### Sort
-1. shellsort
-2. merge sort
-3. quicksort
+#### LeetCode
+
+- No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
+- No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
 
 ### Contest
+
 1. LeetCode (Ranking: N/A)
