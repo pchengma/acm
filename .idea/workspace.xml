@@ -9,8 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises.">
-      <change afterPath="$PROJECT_DIR$/cc/vector/twoSum.cc" afterDir="false" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211208.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -92,7 +91,8 @@
       <workItem from="1638883801089" duration="778000" />
       <workItem from="1638885517226" duration="170000" />
       <workItem from="1638885771347" duration="21000" />
-      <workItem from="1638959067986" duration="335000" />
+      <workItem from="1638959067986" duration="411000" />
+      <workItem from="1638960570234" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -171,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638885678918</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated daily exercises 20211208.">
+      <created>1638960558982</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1638960558982</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +201,8 @@
     <MESSAGE value="Added codes." />
     <MESSAGE value="Added str_reverse.cc." />
     <MESSAGE value="Updated daily exercises." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises." />
+    <MESSAGE value="Updated daily exercises 20211208." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211208." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
