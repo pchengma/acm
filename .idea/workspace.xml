@@ -10,6 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211208.">
+      <change afterPath="$PROJECT_DIR$/cc/map/intersect.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cc/vector/maxProfit.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -92,7 +94,8 @@
       <workItem from="1638885517226" duration="170000" />
       <workItem from="1638885771347" duration="21000" />
       <workItem from="1638959067986" duration="411000" />
-      <workItem from="1638960570234" duration="474000" />
+      <workItem from="1638960570234" duration="741000" />
+      <workItem from="1639045588736" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -178,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638960558982</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updated daily exercises 20211208.">
+      <created>1638963667029</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638963667029</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
