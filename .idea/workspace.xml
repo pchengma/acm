@@ -9,10 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211209.">
-      <change afterPath="$PROJECT_DIR$/cc/vector/generate.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc/vector/matrixReshape.cc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc/vector/numTilings.cpp" afterDir="false" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211210.">
+      <change afterPath="$PROJECT_DIR$/cc/array/isValidSudoku.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cc/array/searchMatrix.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -97,7 +96,8 @@
       <workItem from="1638959067986" duration="411000" />
       <workItem from="1638960570234" duration="741000" />
       <workItem from="1639045588736" duration="823000" />
-      <workItem from="1639119481716" duration="476000" />
+      <workItem from="1639119481716" duration="555000" />
+      <workItem from="1639217334218" duration="518000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -197,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639047371967</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated daily exercises 20211210.">
+      <created>1639122092458</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639122092458</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +229,8 @@
     <MESSAGE value="Updated daily exercises." />
     <MESSAGE value="Updated daily exercises 20211208." />
     <MESSAGE value="Updated daily exercises 20211209." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211209." />
+    <MESSAGE value="Updated daily exercises 20211210." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211210." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
