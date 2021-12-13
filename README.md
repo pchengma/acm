@@ -6,12 +6,15 @@ Record every interesting program.
 
 #### LeetCode
 - No. 1. [Two Sum](cc/vector/twoSum.cc) (Easy)
+- No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
 - N0. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
 - No. 121. [Best Time to Buy and Sell Stock](cc/vector/maxProfit.cc) (Easy)
+- No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)
+- No. 203. [Remove Linked List Elements](cc/ll/removeElements.cc) (Easy)
 - No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
@@ -24,6 +27,7 @@ Record every interesting program.
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
+- No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 
 ### Contest
 
