@@ -22,6 +22,7 @@ Record every interesting program.
 - No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
+- No. 310. [Minimum Height Trees](cc/tree/findMinHeightTrees.cc) (Medium)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)

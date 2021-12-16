@@ -9,11 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211214.">
-      <change afterPath="$PROJECT_DIR$/cc/stack/MyQueue.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cc/stack/isValid.cc" afterDir="false" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211215.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +99,8 @@
       <workItem from="1639386603414" duration="511000" />
       <workItem from="1639387461539" duration="231000" />
       <workItem from="1639456286314" duration="539000" />
-      <workItem from="1639552132590" duration="789000" />
+      <workItem from="1639552132590" duration="871000" />
+      <workItem from="1639654745868" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -237,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1639456919431</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Updated daily exercises 20211215.">
+      <created>1639553543767</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1639553543767</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated daily exercises 20211215.">
+      <created>1639553557494</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1639553557494</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +279,8 @@
     <MESSAGE value="Updated daily exercises 20211212." />
     <MESSAGE value="Updated daily exercises 20211213." />
     <MESSAGE value="Updated daily exercises 20211214." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211214." />
+    <MESSAGE value="Updated daily exercises 20211215." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211215." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
