@@ -36,6 +36,7 @@ Record every interesting program.
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
+- No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
