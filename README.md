@@ -31,6 +31,7 @@ Record every interesting program.
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
+- No. 394. [Decode String]() (Medium)
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)

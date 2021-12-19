@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211217.">
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20211218.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,7 @@
       <workItem from="1639552132590" duration="871000" />
       <workItem from="1639654745868" duration="166000" />
       <workItem from="1639734967377" duration="771000" />
-      <workItem from="1639821723117" duration="4000" />
+      <workItem from="1639821723117" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="Add codes">
       <created>1587613258170</created>
@@ -265,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639735894658</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated daily exercises 20211218.">
+      <created>1639821846430</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1639821846430</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +305,8 @@
     <MESSAGE value="Updated daily exercises 20211215." />
     <MESSAGE value="Updated daily exercises 20211216." />
     <MESSAGE value="Updated daily exercises 20211217." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211217." />
+    <MESSAGE value="Updated daily exercises 20211218." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20211218." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
