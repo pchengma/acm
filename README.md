@@ -10,6 +10,7 @@ Record every interesting program.
 - No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
+- No. 56. [Merge Intervals]() (Medium)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
 - No. 83. [Remove Duplicates from Sorted List](cc/ll/deleteDuplicates.cc) (Easy)
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
