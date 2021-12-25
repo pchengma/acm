@@ -28,6 +28,7 @@ Record every interesting program.
 - No. 210. [Course Schedule II](cc/graph/findOrder.cc) (Medium)
 - No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
 - No. 221. [Maximal Square](cc/dp/maximalSquare.cc) (Medium)
+- No. 227. [Basic Calculator II]() (Medium)
 - No. 231. [Power of Two](cc/math/isPowerOfTwo.cc) (Easy)
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
@@ -35,7 +36,7 @@ Record every interesting program.
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
-- No. 394. [Decode String]() (Medium)
+- No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
@@ -48,6 +49,6 @@ Record every interesting program.
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 
-### Contest
+### Ranking
 
 1. LeetCode (Ranking: ~100000)
