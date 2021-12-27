@@ -38,6 +38,7 @@ Record every interesting program.
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
+- No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
