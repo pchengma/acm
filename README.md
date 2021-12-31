@@ -49,6 +49,7 @@ Record every interesting program.
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
 - No. 1015. [Smallest Integer Divisible by K](cc/math/smallestRepunitDivByK.cc) (Medium)
+- No. 1026. [Maximum Difference Between Node and Ancestor](cc/tree/maxAncestorDiff.cc) (Medium)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
