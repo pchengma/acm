@@ -49,6 +49,7 @@ Record every interesting program.
 - No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
+- No. 1010. [Pairs of Songs With Total Durations Divisible by 60](cc/map/numPairsDivisibleBy60.cc) (Medium)
 - No. 1015. [Smallest Integer Divisible by K](cc/math/smallestRepunitDivByK.cc) (Medium)
 - No. 1026. [Maximum Difference Between Node and Ancestor](cc/tree/maxAncestorDiff.cc) (Medium)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
