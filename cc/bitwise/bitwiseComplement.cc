@@ -1,5 +1,5 @@
 // LeetCode: 1009. Complement of Base 10 Integer (Easy)
-// Time complexity: O(1)
+// Time complexity: O(log n)
 // Space complexity: O(1)
 class Solution {
 public:
