@@ -19,6 +19,7 @@ Record every interesting program.
 - No. 116. [Populating Next Right Pointers in Each Node]() (Medium)
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
 - No. 121. [Best Time to Buy and Sell Stock](cc/vector/maxProfit.cc) (Easy)
+- No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
 - No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)
 - No. 143. [Reorder List](cc/ll/reorderList.cc) (Medium)
 - No. 144. [Binary Tree Preorder Traversal](cc/tree/traversal.cc) (Easy)
