@@ -37,6 +37,7 @@ Record every interesting program.
 - No. 310. [Minimum Height Trees](cc/tree/findMinHeightTrees.cc) (Medium)
 - No. 312. [Burst Balloons](cc/dp/maxCoins.cc) (Hard)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
+- No. 382. [Linked List Random Node](cc/ll/getRandom.cc) (Medium)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
