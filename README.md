@@ -61,6 +61,7 @@ Record every interesting program.
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
+- No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
 
 ### Ranking
 
