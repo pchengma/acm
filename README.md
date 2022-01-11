@@ -56,6 +56,7 @@ Record every interesting program.
 - No. 1009. [Complement of Base 10 Integer](cc/bitwise/bitwiseComplement.cc) (Easy)
 - No. 1010. [Pairs of Songs With Total Durations Divisible by 60](cc/map/numPairsDivisibleBy60.cc) (Medium)
 - No. 1015. [Smallest Integer Divisible by K](cc/math/smallestRepunitDivByK.cc) (Medium)
+- No. 1022. [Sum of Root To Leaf Binary Numbers](cc/tree/sumRootToLeaf.cc) (Easy)
 - No. 1026. [Maximum Difference Between Node and Ancestor](cc/tree/maxAncestorDiff.cc) (Medium)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1094. [Car Pooling](cc/vector/carPooling.cc) (Medium)
