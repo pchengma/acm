@@ -46,6 +46,7 @@ Record every interesting program.
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
+- No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
