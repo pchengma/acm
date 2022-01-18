@@ -49,6 +49,7 @@ Record every interesting program.
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
+- No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 849. [Maximize Distance to Closest Person](java/ll/MaxDistToClosest.java) (Medium)
