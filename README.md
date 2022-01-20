@@ -53,6 +53,7 @@ Record every interesting program.
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 849. [Maximize Distance to Closest Person](java/ll/MaxDistToClosest.java) (Medium)
+- No. 875. [Koko Eating Bananas](cc/binary_search/minEatingSpeed.cc) (Medium)
 - No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
 - No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
