@@ -71,11 +71,11 @@ Record every interesting program.
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1041. [Robot Bounded In Circle](cc/math/isRobotBounded.cc) (Medium)
+- No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
 - No. 1345. [Jump Game IV](java/graph/MinJumps.java) (Hard)
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 - No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
 - No. 1510. [Stone Game IV](cc/dp/winnerSquareGame.cc) (Hard)
 
 ### Ranking
-
 1. LeetCode (Ranking: ~100000)
