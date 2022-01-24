@@ -48,6 +48,7 @@ Record every interesting program.
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
 - No. 452. [Minimum Number of Arrows to Burst Balloons](cc/sort/findMinArrowShots.cc) (Medium)
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
+- No. 520. [Detect Capital](cc/str/detectCapitalUse.cc) (Easy)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
