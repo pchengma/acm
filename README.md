@@ -60,6 +60,7 @@ Record every interesting program.
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
 - No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
+- No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
 - No. 997. [Find the Town Judge](cc/vector/findJudge.cc) (Easy)
 - No. 1009. [Complement of Base 10 Integer](cc/bitwise/bitwiseComplement.cc) (Easy)
