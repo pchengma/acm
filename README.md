@@ -31,6 +31,7 @@ Record every interesting program.
 - No. 203. [Remove Linked List Elements](cc/ll/removeElements.cc) (Easy)
 - No. 206. [Reverse Linked List](cc/ll/reverseList.cc) (Easy)
 - No. 210. [Course Schedule II](cc/graph/findOrder.cc) (Medium)
+- No. 211. [Design Add and Search Words Data Structure](cc/str/WordDictionary.h) (Medium)
 - No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
 - No. 221. [Maximal Square](cc/dp/maximalSquare.cc) (Medium)
 - No. 227. [Basic Calculator II](cc/stack/calculate.cc) (Medium)
