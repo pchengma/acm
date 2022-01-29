@@ -14,6 +14,7 @@ Record every interesting program.
 - No. 67. [Add Binary](cc/bitwise/addBinary.cc) (Easy)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
 - No. 83. [Remove Duplicates from Sorted List](cc/ll/deleteDuplicates.cc) (Easy)
+- No. 84. [Largest Rectangle in Histogram](cc/stack/largestRectangleArea.cc) (Hard)
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
 - No. 94. [Binary Tree Inorder Traversal](cc/tree/inorderTraversal.cc) (Easy)
 - No. 102. [Binary Tree Level Order Traversal](cc/tree/levelOrder.cc) (Medium)
