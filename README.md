@@ -5,6 +5,7 @@ Record every interesting program.
 
 #### LeetCode
 - No. 1. [Two Sum](cc/vector/twoSum.cc) (Easy)
+- No. 4. [Median of Two Sorted Arrays](cc/binary_search/findMedianSortedArrays.h) (Hard)
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
 - No. 20. [Valid Parentheses](cc/stack/isValid.cc) (Easy)
 - No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
