@@ -56,6 +56,7 @@ Record every interesting program.
 - No. 454. [4Sum II](cc/two_sum/fourSumCount.h) (Medium)
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
 - No. 520. [Detect Capital](cc/str/detectCapitalUse.cc) (Easy)
+- No. 525. [Contiguous Array](cc/array/findMaxLength.h) (Medium)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
