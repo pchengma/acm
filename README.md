@@ -9,6 +9,7 @@ Record every interesting program.
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
 - No. 20. [Valid Parentheses](cc/stack/isValid.cc) (Easy)
 - No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
+- No. 23. [Merge k Sorted Lists](cc/ll/mergeKLists.h) (Hard)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
