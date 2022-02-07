@@ -50,6 +50,7 @@ Record every interesting program.
 - No. 382. [Linked List Random Node](cc/ll/getRandom.cc) (Medium)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
+- No. 389. [Find the Difference](cc/str/findTheDifference.h) (Easy)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
 - No. 421. [Maximum XOR of Two Numbers in an Array](cc/math/maxXOR.cc) (Medium)
