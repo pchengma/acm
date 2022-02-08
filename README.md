@@ -43,6 +43,7 @@ Record every interesting program.
 - No. 231. [Power of Two](cc/math/isPowerOfTwo.cc) (Easy)
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
+- No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
 - No. 290. [Word Pattern](cc/str/wordPattern.cc) (Easy)
 - No. 310. [Minimum Height Trees](cc/tree/findMinHeightTrees.cc) (Medium)
 - No. 312. [Burst Balloons](cc/dp/maxCoins.cc) (Hard)
