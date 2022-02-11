@@ -65,6 +65,7 @@ Record every interesting program.
 - No. 560. [Subarray Sum Equals K](java/sum/SubarraySum.java) (Medium)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
+- No. 567. [Permutation in String](java/permutation/CheckInclusion.java) (Medium)
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
