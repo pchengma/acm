@@ -15,6 +15,7 @@ Record every interesting program.
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
 - No. 67. [Add Binary](cc/bitwise/addBinary.cc) (Easy)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
+- No. 78. [Subsets](java/set/Subsets.java) (Medium)
 - No. 80. [Remove Duplicates from Sorted Array II](cc/deduplicate/removeDuplicates.cc) (Medium)
 - No. 83. [Remove Duplicates from Sorted List](cc/ll/deleteDuplicates.cc) (Easy)
 - No. 84. [Largest Rectangle in Histogram](cc/stack/largestRectangleArea.cc) (Hard)
