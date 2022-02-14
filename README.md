@@ -1,9 +1,11 @@
 # ACM
 
-### Daily
-Record every interesting program.
+### About
+
+Learn a new algorithm every day!
 
 #### LeetCode
+
 - No. 1. [Two Sum](cc/vector/twoSum.cc) (Easy)
 - No. 4. [Median of Two Sorted Arrays](cc/binary_search/findMedianSortedArrays.h) (Hard)
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
@@ -22,10 +24,11 @@ Record every interesting program.
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
 - No. 94. [Binary Tree Inorder Traversal](cc/tree/inorderTraversal.cc) (Easy)
 - No. 102. [Binary Tree Level Order Traversal](cc/tree/levelOrder.cc) (Medium)
+- No. 104. [Maximum Depth of Binary Tree](cc/tree/maxDepth.cc)
 - No. 116. [Populating Next Right Pointers in Each Node]() (Medium)
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
 - No. 121. [Best Time to Buy and Sell Stock](cc/vector/maxProfit.cc) (Easy)
-- No. 127. [Word Ladder]() (Hard)
+- No. 127. [Word Ladder](cc/str/ladderLength.cc) (Hard)
 - No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
 - No. 134. [Gas Station](cc/math/canCompleteCircuit.cc) (Medium)
 - No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)

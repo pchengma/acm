@@ -9,7 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220212." />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220213.">
+      <change afterPath="$PROJECT_DIR$/cc/tree/maxDepth.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,9 +74,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -166,13 +170,9 @@
       <workItem from="1644487531068" duration="102000" />
       <workItem from="1644546574572" duration="86000" />
       <workItem from="1644649048554" duration="80000" />
-    </task>
-    <task id="LOCAL-00033" summary="Updated daily exercises 20211228.">
-      <created>1640686689228</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1640686689228</updated>
+      <workItem from="1644745788394" duration="121000" />
+      <workItem from="1644790785067" duration="27000" />
+      <workItem from="1644799762287" duration="25000" />
     </task>
     <task id="LOCAL-00034" summary="Updated daily exercises 20211229.">
       <created>1640774215736</created>
@@ -510,7 +510,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644649119376</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Updated daily exercises 20220213.">
+      <created>1644745902640</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1644745902640</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -530,7 +537,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220119." />
     <MESSAGE value="Updated daily exercises 20220120." />
     <MESSAGE value="Updated daily exercises 20220121." />
     <MESSAGE value="Updated daily exercises 20220122." />
@@ -555,7 +561,8 @@
     <MESSAGE value="Updated daily exercises 20220210." />
     <MESSAGE value="Updated daily exercises 20220211." />
     <MESSAGE value="Updated daily exercises 20220212." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220212." />
+    <MESSAGE value="Updated daily exercises 20220213." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220213." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
