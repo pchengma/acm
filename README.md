@@ -31,6 +31,7 @@ Learn a new algorithm every day!
 - No. 127. [Word Ladder](cc/str/ladderLength.cc) (Hard)
 - No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
 - No. 134. [Gas Station](cc/math/canCompleteCircuit.cc) (Medium)
+- No. 136. [Single Number](cc/bitwise/singleNumber.cc) (Easy)
 - No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)
 - No. 142. [Linked List Cycle II](cc/ll/detectCycle.cc) (Medium)
 - No. 143. [Reorder List](cc/ll/reorderList.cc) (Medium)
