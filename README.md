@@ -14,6 +14,7 @@ Learn a new algorithm every day!
 - No. 23. [Merge k Sorted Lists](cc/ll/mergeKLists.h) (Hard)
 - No. 24. [Swap Nodes in Pairs](cc/ll/swapPairs.cc) (Medium)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
+- No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
 - No. 67. [Add Binary](cc/bitwise/addBinary.cc) (Easy)
