@@ -61,6 +61,7 @@ Learn a new algorithm every day!
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
 - No. 389. [Find the Difference](cc/str/findTheDifference.h) (Easy)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
+- No. 402. [Remove K Digits](cc/stack/removeKdigits.cc) (Medium)
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
 - No. 421. [Maximum XOR of Two Numbers in an Array](cc/math/maxXOR.cc) (Medium)
 - No. 438. [Find All Anagrams in a String](cc/sliding_window/findAnagrams.h) (Medium)
