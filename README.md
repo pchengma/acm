@@ -104,6 +104,7 @@ Learn a new algorithm every day!
 - No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
 - No. 1510. [Stone Game IV](cc/dp/winnerSquareGame.cc) (Hard)
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
+- No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
 
 ### Ranking
 1. LeetCode (Ranking: ~100000)
