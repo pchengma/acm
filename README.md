@@ -95,6 +95,7 @@ Learn a new algorithm every day!
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1094. [Car Pooling](cc/vector/carPooling.cc) (Medium)
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
+- No. 1288. [Remove Covered Intervals](cc/sort/removeCoveredIntervals.cc) (Medium)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1041. [Robot Bounded In Circle](cc/math/isRobotBounded.cc) (Medium)
 - No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
