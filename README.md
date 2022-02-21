@@ -40,6 +40,7 @@ Learn a new algorithm every day!
 - No. 144. [Binary Tree Preorder Traversal](cc/tree/traversal.cc) (Easy)
 - No. 145. [Binary Tree Postorder Traversal](cc/tree/postorderTraversal.cc) (Easy)
 - No. 147. [Insertion Sort List](cc/ll/insertionSortList.cc) (Medium)
+- No. 169. [Majority Element]() (Easy)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
 - No. 203. [Remove Linked List Elements](cc/ll/removeElements.cc) (Easy)
 - No. 206. [Reverse Linked List](cc/ll/reverseList.cc) (Easy)
