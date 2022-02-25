@@ -42,6 +42,7 @@ Learn a new algorithm every day!
 - No. 145. [Binary Tree Postorder Traversal](cc/tree/postorderTraversal.cc) (Easy)
 - No. 147. [Insertion Sort List](cc/ll/insertionSortList.cc) (Medium)
 - No. 148. [Sort List](cc/ll/sortList.cc) (Medium)
+- No. 165. [Compare Version Numbers](cc/str/compareVersion.cc) (Medium)
 - No. 169. [Majority Element](cc/hash/majorityElement.cc) (Easy)
 - No. 171. [Excel Sheet Column Number](cc/str/titleToNumber.cc) (Easy)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
