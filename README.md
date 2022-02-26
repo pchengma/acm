@@ -83,6 +83,7 @@ Learn a new algorithm every day!
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
+- No. 847. [Shortest Path Visiting All Nodes](java/graph/shortestPathLength.java) (Hard)
 - No. 849. [Maximize Distance to Closest Person](java/ll/MaxDistToClosest.java) (Medium)
 - No. 875. [Koko Eating Bananas](cc/binary_search/minEatingSpeed.cc) (Medium)
 - No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
