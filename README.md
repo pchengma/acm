@@ -28,7 +28,6 @@ Learn a new algorithm every day!
 - No. 84. [Largest Rectangle in Histogram](cc/stack/largestRectangleArea.cc) (Hard)
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
 - No. 94. [Binary Tree Inorder Traversal](cc/tree/inorderTraversal.cc) (Easy)
-
 </details>
 
 <details open>
@@ -55,7 +54,6 @@ Learn a new algorithm every day!
 - No. 169. [Majority Element](cc/hash/majorityElement.cc) (Easy)
 - No. 171. [Excel Sheet Column Number](cc/str/titleToNumber.cc) (Easy)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
-
 </details>
 
 <details open>
@@ -73,7 +71,6 @@ Learn a new algorithm every day!
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
 - No. 290. [Word Pattern](cc/str/wordPattern.cc) (Easy)
-
 </details>
 
 <details open>
@@ -87,7 +84,6 @@ Learn a new algorithm every day!
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
 - No. 389. [Find the Difference](cc/str/findTheDifference.h) (Easy)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
-
 </details>
 
 <details open>
@@ -100,7 +96,6 @@ Learn a new algorithm every day!
 - No. 452. [Minimum Number of Arrows to Burst Balloons](cc/sort/findMinArrowShots.cc) (Medium)
 - No. 454. [4Sum II](cc/two_sum/fourSumCount.h) (Medium)
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
-
 </details>
 
 <details open>
@@ -113,7 +108,6 @@ Learn a new algorithm every day!
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 567. [Permutation in String](java/permutation/CheckInclusion.java) (Medium)
-
 </details>
 
 <details open>
@@ -121,7 +115,6 @@ Learn a new algorithm every day!
 
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
-
 </details>
 
 <details open>
@@ -129,7 +122,6 @@ Learn a new algorithm every day!
 
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
-
 </details>
 
 <details open>
@@ -140,7 +132,6 @@ Learn a new algorithm every day!
 - No. 875. [Koko Eating Bananas](cc/binary_search/minEatingSpeed.cc) (Medium)
 - No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
-
 </details>
 
 <details open>
@@ -151,7 +142,6 @@ Learn a new algorithm every day!
 - No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
 - No. 997. [Find the Town Judge](cc/vector/findJudge.cc) (Easy)
-
 </details>
 
 <details open>
@@ -165,22 +155,19 @@ Learn a new algorithm every day!
 - No. 1041. [Robot Bounded In Circle](cc/math/isRobotBounded.cc) (Medium)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1094. [Car Pooling](cc/vector/carPooling.cc) (Medium)
-
 </details>
 
 <details open>
 <summary><b> 1101-1200 </b></summary>
 
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
-- No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
-
 </details>
 
 <details open>
 <summary><b> 1201-1300 </b></summary>
 
 - No. 1288. [Remove Covered Intervals](cc/sort/removeCoveredIntervals.cc) (Medium)
-
+- No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
 </details>
 
 <details open>
@@ -189,7 +176,6 @@ Learn a new algorithm every day!
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1305. [All Elements in Two Binary Search Trees](cc/stack/getAllElements.cc) (Medium)
 - No. 1345. [Jump Game IV](java/graph/MinJumps.java) (Hard)
-
 </details>
 
 <details open>
@@ -197,14 +183,12 @@ Learn a new algorithm every day!
 
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 - No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
-
 </details>
 
 <details open>
 <summary><b> 1501-1600 </b></summary>
 
 - No. 1510. [Stone Game IV](cc/dp/winnerSquareGame.cc) (Hard)
-
 </details>
 
 <details open>
@@ -212,7 +196,6 @@ Learn a new algorithm every day!
 
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
-
 </details>
 
 ### Ranking

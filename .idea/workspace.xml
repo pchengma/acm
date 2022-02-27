@@ -9,9 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220227.">
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Added collapsible tag.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,14 +178,7 @@
       <workItem from="1645753199367" duration="98000" />
       <workItem from="1645869332582" duration="120000" />
       <workItem from="1645923367989" duration="80000" />
-      <workItem from="1645977224627" duration="383000" />
-    </task>
-    <task id="LOCAL-00049" summary="Updated daily exercises 20220111.">
-      <created>1641886096178</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1641886096178</updated>
+      <workItem from="1645977224627" duration="481000" />
     </task>
     <task id="LOCAL-00050" summary="Updated daily exercises 20220112.">
       <created>1641951042799</created>
@@ -524,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645923441360</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Added collapsible tag.">
+      <created>1645977700602</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1645977700602</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +543,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220204." />
     <MESSAGE value="Updated daily exercises 20220205." />
     <MESSAGE value="Updated daily exercises 20220206." />
     <MESSAGE value="Updated daily exercises 20220207." />
@@ -569,7 +567,8 @@
     <MESSAGE value="Updated daily exercises 20220225." />
     <MESSAGE value="Updated daily exercises 20220226." />
     <MESSAGE value="Updated daily exercises 20220227." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220227." />
+    <MESSAGE value="Added collapsible tag." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added collapsible tag." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
