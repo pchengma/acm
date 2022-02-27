@@ -81,6 +81,7 @@ Learn a new algorithm every day!
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 567. [Permutation in String](java/permutation/CheckInclusion.java) (Medium)
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
+- No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 847. [Shortest Path Visiting All Nodes](java/graph/shortestPathLength.java) (Hard)
