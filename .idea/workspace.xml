@@ -9,8 +9,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220226.">
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220227.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +71,6 @@
       <recent name="$PROJECT_DIR$/cc/two_sum" />
       <recent name="$PROJECT_DIR$/c/arithmetic/gf" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -184,14 +178,8 @@
       <workItem from="1645664072789" duration="89000" />
       <workItem from="1645753199367" duration="98000" />
       <workItem from="1645869332582" duration="120000" />
-      <workItem from="1645923367989" duration="1000" />
-    </task>
-    <task id="LOCAL-00048" summary="Updated daily exercises 20220110.">
-      <created>1641807330679</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1641807330679</updated>
+      <workItem from="1645923367989" duration="80000" />
+      <workItem from="1645977224627" duration="383000" />
     </task>
     <task id="LOCAL-00049" summary="Updated daily exercises 20220111.">
       <created>1641886096178</created>
@@ -529,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645869447586</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Updated daily exercises 20220227.">
+      <created>1645923441360</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1645923441360</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +544,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220203." />
     <MESSAGE value="Updated daily exercises 20220204." />
     <MESSAGE value="Updated daily exercises 20220205." />
     <MESSAGE value="Updated daily exercises 20220206." />
@@ -574,7 +568,8 @@
     <MESSAGE value="Updated daily exercises 20220224." />
     <MESSAGE value="Updated daily exercises 20220225." />
     <MESSAGE value="Updated daily exercises 20220226." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220226." />
+    <MESSAGE value="Updated daily exercises 20220227." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220227." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
