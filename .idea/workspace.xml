@@ -71,6 +71,13 @@
       <recent name="$PROJECT_DIR$/c/arithmetic/gf" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -179,13 +186,8 @@
       <workItem from="1645869332582" duration="120000" />
       <workItem from="1645923367989" duration="80000" />
       <workItem from="1645977224627" duration="481000" />
-    </task>
-    <task id="LOCAL-00050" summary="Updated daily exercises 20220112.">
-      <created>1641951042799</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1641951042799</updated>
+      <workItem from="1645977808413" duration="79000" />
+      <workItem from="1646024820216" duration="2000" />
     </task>
     <task id="LOCAL-00051" summary="Updated daily exercises 20220113.">
       <created>1642048850077</created>
@@ -523,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645977700602</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Added collapsible tag.">
+      <created>1645977882867</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1645977882867</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
