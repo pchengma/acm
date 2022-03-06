@@ -182,6 +182,7 @@ Learn a new algorithm every day!
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1305. [All Elements in Two Binary Search Trees](cc/stack/getAllElements.cc) (Medium)
 - No. 1345. [Jump Game IV](java/graph/MinJumps.java) (Hard)
+- No. 1359. [Count All Valid Pickup and Delivery Options]() (Hard)
 </details>
 
 <details open>
