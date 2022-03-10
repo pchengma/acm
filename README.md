@@ -10,6 +10,7 @@ Learn a new algorithm every day!
 <summary><b> 1-100 </b></summary>
 
 - No. 1. [Two Sum](cc/vector/twoSum.cc) (Easy)
+- No. 2. [Add Two Numbers](cc/ll/addTwoNumbers.cc) (Medium)
 - No. 4. [Median of Two Sorted Arrays](cc/binary_search/findMedianSortedArrays.h) (Hard)
 - No. 7. [Reverse Integer](cc/stack/reverse.cc) (Medium)
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
