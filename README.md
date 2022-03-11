@@ -23,6 +23,7 @@ Learn a new algorithm every day!
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
+- No. 61. [Rotate List](cc/ll/rotateRight.cc) (Medium)
 - No. 67. [Add Binary](cc/bitwise/addBinary.cc) (Easy)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
 - No. 78. [Subsets](java/set/Subsets.java) (Medium)
