@@ -48,6 +48,7 @@ Learn a new algorithm every day!
 - No. 133. [Clone Graph](cc/graph/cloneGraph.cc) (Medium)
 - No. 134. [Gas Station](cc/math/canCompleteCircuit.cc) (Medium)
 - No. 136. [Single Number](cc/bitwise/singleNumber.cc) (Easy)
+- No. 138. [Copy List with Random Pointer](cc/ll/copyRandomList.cc) (Medium)
 - No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)
 - No. 142. [Linked List Cycle II](cc/ll/detectCycle.cc) (Medium)
 - No. 143. [Reorder List](cc/ll/reorderList.cc) (Medium)
