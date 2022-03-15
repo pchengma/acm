@@ -9,10 +9,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220313.">
-      <change afterPath="$PROJECT_DIR$/cc/stack/simplifyPath.cc" afterDir="false" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220314.">
+      <change afterPath="$PROJECT_DIR$/cc/stack/minRemoveToMakeValid.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cc/greedy/maxArea.cc" beforeDir="false" afterPath="$PROJECT_DIR$/cc/greedy/maxArea.cc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,14 +206,9 @@
       <workItem from="1646960508066" duration="753000" />
       <workItem from="1647053157890" duration="150000" />
       <workItem from="1647130283553" duration="2940000" />
-      <workItem from="1647218315552" duration="41000" />
-    </task>
-    <task id="LOCAL-00065" summary="Updated daily exercises 20220127.">
-      <created>1643279640107</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1643279640107</updated>
+      <workItem from="1647218315552" duration="75000" />
+      <workItem from="1647238445968" duration="20000" />
+      <workItem from="1647306628398" duration="44000" />
     </task>
     <task id="LOCAL-00066" summary="Updated daily exercises 20220128.">
       <created>1643373424459</created>
@@ -550,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647133193502</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Updated daily exercises 20220314.">
+      <created>1647218384323</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1647218384323</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +573,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220219." />
     <MESSAGE value="Added comments to LeetCode 20." />
     <MESSAGE value="Updated daily exercises 20220220." />
     <MESSAGE value="Updated daily exercises 20220221." />
@@ -595,7 +597,8 @@
     <MESSAGE value="Updated daily exercises 20220311." />
     <MESSAGE value="Updated daily exercises 20220312." />
     <MESSAGE value="Updated daily exercises 20220313." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220313." />
+    <MESSAGE value="Updated daily exercises 20220314." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220314." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

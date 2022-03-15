@@ -22,7 +22,7 @@ public:
                 // If left line is shorter, then move right to find a higher left line for a larger area:
                 ++left;
             } else {
-                // Get max area
+                // Get max area:
                 area = max(area, (right - left) * height[right]);
                 // If right line is shorter, then move left to find a higher right line for a larger area:
                 --right;
