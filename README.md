@@ -87,6 +87,7 @@ Learn a new algorithm every day!
 
 - No. 310. [Minimum Height Trees](cc/tree/findMinHeightTrees.cc) (Medium)
 - No. 312. [Burst Balloons](cc/dp/maxCoins.cc) (Hard)
+- No. 316. [Remove Duplicate Letters](cc/deduplicate/removeDuplicateLetters.cc) (Medium)
 - No. 338. [Counting Bits](cc/bitwise/countBits.cc) (Easy)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 382. [Linked List Random Node](cc/ll/getRandom.cc) (Medium)
