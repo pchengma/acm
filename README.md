@@ -135,6 +135,7 @@ Learn a new algorithm every day!
 
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 740. [Delete and Earn](java/dp/DeleteAndEarn.java) (Medium)
+- No. 763. [Partition Labels](cc/greedy/partitionLabels.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 799. [Champagne Tower](cc/tree/champagneTower.cc) (Medium)
 </details>
