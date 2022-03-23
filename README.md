@@ -160,6 +160,7 @@ Learn a new algorithm every day!
 - No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
 - No. 946. [Validate Stack Sequences](cc/greedy/validateStackSequences.cc) (Medium)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
+- No. 991. [Broken Calculator](cc/math/brokenCalc.cc) (Medium)
 - No. 997. [Find the Town Judge](cc/vector/findJudge.cc) (Easy)
 </details>
 
