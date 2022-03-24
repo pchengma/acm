@@ -149,6 +149,7 @@ Learn a new algorithm every day!
 - No. 875. [Koko Eating Bananas](cc/binary_search/minEatingSpeed.cc) (Medium)
 - No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
+- No. 881. [Boats to Save People](cc/two_ptr/numRescueBoats.cc) (Medium)
 - No. 895. [Maximum Frequency Stack](cc/stack/FreqStack.cc) (Hard)
 </details>
 
