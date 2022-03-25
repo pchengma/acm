@@ -174,6 +174,7 @@ Learn a new algorithm every day!
 - No. 1015. [Smallest Integer Divisible by K](cc/math/smallestRepunitDivByK.cc) (Medium)
 - No. 1022. [Sum of Root To Leaf Binary Numbers](cc/tree/sumRootToLeaf.cc) (Easy)
 - No. 1026. [Maximum Difference Between Node and Ancestor](cc/tree/maxAncestorDiff.cc) (Medium)
+- No. 1029. [Two City Scheduling](cc/sort/twoCitySchedCost.cc) (Medium)
 - No. 1041. [Robot Bounded In Circle](cc/math/isRobotBounded.cc) (Medium)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1094. [Car Pooling](cc/vector/carPooling.cc) (Medium)
