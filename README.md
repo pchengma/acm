@@ -30,6 +30,7 @@ Learn a new algorithm every day!
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
 - No. 78. [Subsets](java/set/Subsets.java) (Medium)
 - No. 80. [Remove Duplicates from Sorted Array II](cc/deduplicate/removeDuplicates.cc) (Medium)
+- No. 81. [Search in Rotated Sorted Array II](cc/binary_search/searchRotated.cc) (Medium)
 - No. 82. [Remove Duplicates from Sorted List II](cc/ll/deleteDuplicates2.cc) (Medium)
 - No. 83. [Remove Duplicates from Sorted List](cc/ll/deleteDuplicates.cc) (Easy)
 - No. 84. [Largest Rectangle in Histogram](cc/stack/largestRectangleArea.cc) (Hard)
