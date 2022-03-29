@@ -80,6 +80,7 @@ Learn a new algorithm every day!
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
+- No. 287. [Find the Duplicate Number](cc/binary_search/findDuplicate.cc) (Medium)
 - No. 290. [Word Pattern](cc/str/wordPattern.cc) (Easy)
 </details>
 
