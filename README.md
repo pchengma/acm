@@ -16,6 +16,7 @@ Learn a new algorithm every day!
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
 - No. 10. [Regular Expression Matching](java/dp/IsMatch.java) (Hard)
 - No. 11. [Container With Most Water](cc/greedy/maxArea.cc) (Medium)
+- No. 12. [Integer to Roman](cc/binary_search/intToRoman.cc) (Medium)
 - No. 20. [Valid Parentheses](cc/stack/isValid.cc) (Easy)
 - No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
 - No. 23. [Merge k Sorted Lists](cc/ll/mergeKLists.h) (Hard)
