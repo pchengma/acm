@@ -9,10 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220402.">
-      <change afterPath="$PROJECT_DIR$/cc/vector/nextPermutation.cc" afterDir="false" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220403.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,13 +72,6 @@
       <recent name="$PROJECT_DIR$/cc/two_sum" />
       <recent name="$PROJECT_DIR$/c/arithmetic/gf" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -227,14 +218,9 @@
       <workItem from="1648785621611" duration="75000" />
       <workItem from="1648864824547" duration="88000" />
       <workItem from="1648905454422" duration="2000" />
-      <workItem from="1648960646662" duration="56000" />
-    </task>
-    <task id="LOCAL-00085" summary="Updated daily exercises 20220216.">
-      <created>1645006631765</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1645006631765</updated>
+      <workItem from="1648960646662" duration="91000" />
+      <workItem from="1648975153459" duration="152000" />
+      <workItem from="1648976124713" duration="1000" />
     </task>
     <task id="LOCAL-00086" summary="Updated daily exercises 20220217.">
       <created>1645074744426</created>
@@ -572,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648864904109</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="Updated daily exercises 20220403.">
+      <created>1648960730730</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1648960730730</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -592,7 +585,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220309." />
     <MESSAGE value="Updated daily exercises 20220310." />
     <MESSAGE value="Updated daily exercises 20220311." />
     <MESSAGE value="Updated daily exercises 20220312." />
@@ -617,7 +609,8 @@
     <MESSAGE value="Updated daily exercises 20220331." />
     <MESSAGE value="Updated daily exercises 20220401." />
     <MESSAGE value="Updated daily exercises 20220402." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220402." />
+    <MESSAGE value="Updated daily exercises 20220403." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220403." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

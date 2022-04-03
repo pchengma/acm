@@ -1,5 +1,7 @@
 # ACM
 
+[![LeetCode user pchengma](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpchengma&logo=leetcode&logoColor=yellow)](https://leetcode.com/pchengma/)
+
 ### About
 
 Learn a new algorithm every day!
@@ -232,7 +234,3 @@ Learn a new algorithm every day!
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
 </details>
-
-### Ranking
-
-1. LeetCode (Ranking: ~100000)
