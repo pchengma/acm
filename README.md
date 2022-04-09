@@ -97,6 +97,7 @@ Learn a new algorithm every day!
 - No. 316. [Remove Duplicate Letters](cc/deduplicate/removeDuplicateLetters.cc) (Medium)
 - No. 338. [Counting Bits](cc/bitwise/countBits.cc) (Easy)
 - No. 344. [Reverse String](cc/str/reverseString.cc) (Easy)
+- No. 347. [Top K Frequent Elements](cc/heap/topKFrequent.cc) (Medium)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 382. [Linked List Random Node](cc/ll/getRandom.cc) (Medium)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
