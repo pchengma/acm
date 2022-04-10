@@ -139,6 +139,7 @@ Learn a new algorithm every day!
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
 - No. 680. [Valid Palindrome II](cc/str/validPalindrome.cc) (Easy)
+- No. 682. [Baseball Game](cc/stack/calPoints.cc) (Easy)
 </details>
 
 <details open>
