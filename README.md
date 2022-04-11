@@ -200,6 +200,7 @@ Learn a new algorithm every day!
 <summary><b> 1101-1200 </b></summary>
 
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
+- No. 1260. [Shift 2D Grid](cc/vector/shiftGrid.cc) (Easy)
 </details>
 
 <details open>
