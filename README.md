@@ -142,6 +142,7 @@ Learn a new algorithm every day!
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
 - No. 680. [Valid Palindrome II](cc/str/validPalindrome.cc) (Easy)
 - No. 682. [Baseball Game](cc/stack/calPoints.cc) (Easy)
+- No. 700. [Search in a Binary Search Tree](cc/tree/searchBST.cc) (Easy)
 </details>
 
 <details open>
