@@ -129,6 +129,7 @@ Learn a new algorithm every day!
 - No. 520. [Detect Capital](cc/str/detectCapitalUse.cc) (Easy)
 - No. 525. [Contiguous Array](cc/array/findMaxLength.h) (Medium)
 - No. 532. [K-diff Pairs in an Array](cc/hash/findPairs.h) (Medium)
+- No. 538. [Convert BST to Greater Tree](cc/tree/convertBST.cc) (Medium)
 - No. 560. [Subarray Sum Equals K](java/sum/SubarraySum.java) (Medium)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
