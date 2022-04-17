@@ -170,6 +170,7 @@ Learn a new algorithm every day!
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
 - No. 881. [Boats to Save People](cc/two_ptr/numRescueBoats.cc) (Medium)
 - No. 895. [Maximum Frequency Stack](cc/stack/FreqStack.cc) (Hard)
+- No. 897. [Increasing Order Search Tree](cc/tree/increasingBST.cc) (Easy)
 </details>
 
 <details open>
