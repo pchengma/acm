@@ -82,6 +82,7 @@ Learn a new algorithm every day!
 - No. 221. [Maximal Square](cc/dp/maximalSquare.cc) (Medium)
 - No. 227. [Basic Calculator II](cc/stack/calculate.cc) (Medium)
 - No. 228. [Summary Ranges](cc/str/summaryRanges.cc) (Easy)
+- No. 230. [Kth Smallest Element in a BST](java/tree/KthSmallest.java) (Medium)
 - No. 231. [Power of Two](cc/math/isPowerOfTwo.cc) (Easy)
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
