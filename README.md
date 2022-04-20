@@ -69,6 +69,7 @@ Learn a new algorithm every day!
 - No. 165. [Compare Version Numbers](cc/str/compareVersion.cc) (Medium)
 - No. 169. [Majority Element](cc/hash/majorityElement.cc) (Easy)
 - No. 171. [Excel Sheet Column Number](cc/str/titleToNumber.cc) (Easy)
+- No. 173. [Binary Search Tree Iterator](cc/tree/BSTIterator.h) (Medium)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
 </details>
 
