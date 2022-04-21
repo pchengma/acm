@@ -156,6 +156,7 @@ Learn a new algorithm every day!
 - No. 701. [Insert into a Binary Search Tree](cc/tree/insertIntoBST.cc) (Medium)
 - No. 703. [Kth Largest Element in a Stream](cc/heap/KthLargest.h) (Easy)
 - No. 704. [Binary Search](cc/binary_search/search.cc) (Easy)
+- No. 705. [Design HashSet](cc/hash/MyHashSet.h) (Easy)
 - No. 740. [Delete and Earn](java/dp/DeleteAndEarn.java) (Medium)
 - No. 763. [Partition Labels](cc/greedy/partitionLabels.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
