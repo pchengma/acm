@@ -246,7 +246,7 @@ Learn a new algorithm every day!
 <summary><b> 1501-1600 </b></summary>
 
 - No. 1510. [Stone Game IV](cc/dp/winnerSquareGame.cc) (Hard)
-
+- No. 1584. [Min Cost to Connect All Points](cc/graph/minCostConnectPoints.cc) (Medium)
 </details>
 
 <details open>
