@@ -111,6 +111,7 @@ Learn a new algorithm every day!
 - No. 389. [Find the Difference](cc/str/findTheDifference.h) (Easy)
 - No. 392. [Is Subsequence](cc/two_ptr/isSubsequence.cc) (Easy)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
+- No. 399. [Evaluate Division](cc/graph/calcEquation.cc) (Medium)
 </details>
 
 <details open>
