@@ -9,8 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220428.">
-      <change afterPath="$PROJECT_DIR$/cc/graph/calcEquation.cc" afterDir="false" />
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220430.">
+      <change afterPath="$PROJECT_DIR$/cc/str/backspaceCompare.cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -32,6 +32,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -76,9 +77,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -258,14 +259,8 @@
       <workItem from="1651025490310" duration="112000" />
       <workItem from="1651107519780" duration="86000" />
       <workItem from="1651194740513" duration="134000" />
-      <workItem from="1651290519808" duration="136000" />
-    </task>
-    <task id="LOCAL-00112" summary="Updated daily exercises 20220312.">
-      <created>1647053288181</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1647053288181</updated>
+      <workItem from="1651290519808" duration="277000" />
+      <workItem from="1651370114850" duration="73000" />
     </task>
     <task id="LOCAL-00113" summary="Updated daily exercises 20220313.">
       <created>1647133193501</created>
@@ -603,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651107599588</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Updated daily exercises 20220430.">
+      <created>1651290784073</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1651290784073</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +625,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220404." />
     <MESSAGE value="Updated daily exercises 20220405." />
     <MESSAGE value="Updated daily exercises 20220406." />
     <MESSAGE value="Updated daily exercises 20220407." />
@@ -648,7 +649,8 @@
     <MESSAGE value="Updated daily exercises 20220426." />
     <MESSAGE value="Updated daily exercises 20220427." />
     <MESSAGE value="Updated daily exercises 20220428." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220428." />
+    <MESSAGE value="Updated daily exercises 20220430." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220430." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
