@@ -187,6 +187,7 @@ Learn a new algorithm every day!
 <summary><b> 901-1000 </b></summary>
 
 - No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
+- No. 905. [Sort Array By Parity](cc/two_ptr/sortArrayByParity.cc) (Easy)
 - No. 923. [3Sum With Multiplicity](cc/two_sum/threeSumMulti.cc) (Medium)
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
 - No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
