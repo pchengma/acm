@@ -262,6 +262,7 @@ Learn a new algorithm every day!
 - No. 1663. [Smallest String With A Given Numeric Value](cc/str/getSmallestString.cc) (Medium)
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
+- No. 1679. [Max Number of K-Sum Pairs](cc/two_ptr/maxOperations.cc) (Medium)
 - No. 1721. [Swapping Nodes in a Linked List](cc/ll/swapNodes.cc) (Medium)
 
 </details>
