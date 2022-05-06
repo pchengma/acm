@@ -226,6 +226,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1201-1300 </b></summary>
 
+- No. 1209. [Remove All Adjacent Duplicates in String II](cc/stack/removeDuplicates.cc) (Medium)
 - No. 1249. [Minimum Remove to Make Valid Parentheses](cc/stack/minRemoveToMakeValid.cc) (Medium)
 - No. 1288. [Remove Covered Intervals](cc/sort/removeCoveredIntervals.cc) (Medium)
 - No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
