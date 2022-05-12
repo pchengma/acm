@@ -28,6 +28,7 @@ Learn a new algorithm every day!
 - No. 31. [Next Permutation](cc/vector/nextPermutation.cc) (Medium)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
+- No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
 - No. 59. [Spiral Matrix II](cc/vector/generateMatrix.cc) (Medium)
