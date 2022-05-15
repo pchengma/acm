@@ -242,6 +242,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1301-1400 </b></summary>
 
+- No. 1302. [Deepest Leaves Sum](cc/tree/deepestLeavesSum.h) (Medium)
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1305. [All Elements in Two Binary Search Trees](cc/stack/getAllElements.cc) (Medium)
 - No. 1337. [The K Weakest Rows in a Matrix](cc/set/kWeakestRows.cc) (Easy)
