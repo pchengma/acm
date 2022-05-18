@@ -226,16 +226,17 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1101-1200 </b></summary>
 
+- No. 1192. [Critical Connections in a Network](cc/graph/criticalConnections.h) (Hard)
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
-- No. 1202. [Smallest String With Swaps](cc/dfs/smallestStringWithSwaps.cc) (Medium)
-- No. 1260. [Shift 2D Grid](cc/vector/shiftGrid.cc) (Easy)
 </details>
 
 <details open>
 <summary><b> 1201-1300 </b></summary>
 
+- No. 1202. [Smallest String With Swaps](cc/dfs/smallestStringWithSwaps.cc) (Medium)
 - No. 1209. [Remove All Adjacent Duplicates in String II](cc/stack/removeDuplicates.cc) (Medium)
 - No. 1249. [Minimum Remove to Make Valid Parentheses](cc/stack/minRemoveToMakeValid.cc) (Medium)
+- No. 1260. [Shift 2D Grid](cc/vector/shiftGrid.cc) (Easy)
 - No. 1288. [Remove Covered Intervals](cc/sort/removeCoveredIntervals.cc) (Medium)
 - No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
 </details>
