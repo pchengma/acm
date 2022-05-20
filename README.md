@@ -33,6 +33,7 @@ Learn a new algorithm every day!
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
 - No. 59. [Spiral Matrix II](cc/vector/generateMatrix.cc) (Medium)
 - No. 61. [Rotate List](cc/ll/rotateRight.cc) (Medium)
+- No. 63. [Unique Paths II](cc/dp/UniquePathsWithObstacles.h) (Medium)
 - No. 67. [Add Binary](cc/bitwise/addBinary.cc) (Easy)
 - No. 71. [Simplify Path](cc/stack/simplifyPath.cc) (Medium)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
