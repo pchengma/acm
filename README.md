@@ -107,6 +107,7 @@ Learn a new algorithm every day!
 - No. 310. [Minimum Height Trees](cc/tree/findMinHeightTrees.cc) (Medium)
 - No. 312. [Burst Balloons](cc/dp/maxCoins.cc) (Hard)
 - No. 316. [Remove Duplicate Letters](cc/deduplicate/removeDuplicateLetters.cc) (Medium)
+- No. 322. [Coin Change](cc/dp/CoinChange.h) (Medium)
 - No. 329. [Longest Increasing Path in a Matrix](cc/dfs/LongestIncreasingPath.h) (Hard)
 - No. 338. [Counting Bits](cc/bitwise/countBits.cc) (Easy)
 - No. 341. [Flatten Nested List Iterator](cc/design/NestedIterator.h) (Medium)
