@@ -157,6 +157,7 @@ Learn a new algorithm every day!
 <summary><b> 601-700 </b></summary>
 
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
+- No. 647. [Palindromic Substrings](cc/dp/CountSubstrings.h) (Medium)
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
 - No. 669. [Trim a Binary Search Tree](cc/tree/trimBST.cc) (Medium)
 - No. 680. [Valid Palindrome II](cc/str/validPalindrome.cc) (Easy)
