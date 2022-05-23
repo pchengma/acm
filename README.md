@@ -135,6 +135,7 @@ Learn a new algorithm every day!
 - No. 452. [Minimum Number of Arrows to Burst Balloons](cc/sort/findMinArrowShots.cc) (Medium)
 - No. 454. [4Sum II](cc/two_sum/fourSumCount.h) (Medium)
 - No. 456. [132 Pattern](cc/stack/find132pattern.cc) (Medium)
+- No. 474. [Ones and Zeroes](cc/dp/FindMaxForm.h) (Medium)
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
 </details>
 
