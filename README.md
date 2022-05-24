@@ -26,6 +26,7 @@ Learn a new algorithm every day!
 - No. 23. [Merge k Sorted Lists](cc/ll/mergeKLists.h) (Hard)
 - No. 24. [Swap Nodes in Pairs](cc/ll/swapPairs.cc) (Medium)
 - No. 31. [Next Permutation](cc/vector/nextPermutation.cc) (Medium)
+- No. 32. [Longest Valid Parentheses](cc/stack/LongestValidParentheses.h) (Medium)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
