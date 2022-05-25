@@ -115,6 +115,7 @@ Learn a new algorithm every day!
 - No. 344. [Reverse String](cc/str/reverseString.cc) (Easy)
 - No. 347. [Top K Frequent Elements](cc/heap/topKFrequent.cc) (Medium)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
+- No. 354. [Russian Doll Envelopes](cc/binary_search/MaxEnvelopes.h) (Hard)
 - No. 382. [Linked List Random Node](cc/ll/getRandom.cc) (Medium)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
