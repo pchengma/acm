@@ -76,6 +76,7 @@ Learn a new algorithm every day!
 - No. 171. [Excel Sheet Column Number](cc/str/titleToNumber.cc) (Easy)
 - No. 173. [Binary Search Tree Iterator](cc/tree/BSTIterator.h) (Medium)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
+- No. 191. [Number of 1 Bits](cc/bitwise/HammingWeight.h) (Easy)
 </details>
 
 <details open>
