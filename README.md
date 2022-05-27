@@ -256,6 +256,7 @@ Learn a new algorithm every day!
 - No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1305. [All Elements in Two Binary Search Trees](cc/stack/getAllElements.cc) (Medium)
 - No. 1337. [The K Weakest Rows in a Matrix](cc/set/kWeakestRows.cc) (Easy)
+- No. 1342. [Number of Steps to Reduce a Number to Zero](cc/array/NumberOfSteps.h) (Easy)
 - No. 1345. [Jump Game IV](java/graph/MinJumps.java) (Hard)
 - No. 1359. [Count All Valid Pickup and Delivery Options](cc/math/countOrders.cc) (Hard)
 - No. 1379. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](cc/tree/GetTargetCopy.h) (Medium)
