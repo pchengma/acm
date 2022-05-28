@@ -97,6 +97,7 @@ Learn a new algorithm every day!
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
+- No. 268. [Missing Number](cc/math/MissingNumber.h) (Easy)
 - No. 284. [Peeking Iterator](cc/design/PeekingIterator.h) (Medium)
 - No. 287. [Find the Duplicate Number](cc/binary_search/findDuplicate.cc) (Medium)
 - No. 289. [Game of Life](cc/vector/gameOfLife.cc) (Medium)
