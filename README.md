@@ -77,6 +77,7 @@ Learn a new algorithm every day!
 - No. 148. [Sort List](cc/ll/sortList.cc) (Medium)
 - No. 160. [Intersection of Two Linked Lists](cc/ll/GetIntersectionNode.h) (Easy)
 - No. 165. [Compare Version Numbers](cc/str/compareVersion.cc) (Medium)
+- No. 167. [Two Sum II - Input Array Is Sorted](cc/two_sum/TwoSumII.h) (Medium)
 - No. 169. [Majority Element](cc/hash/majorityElement.cc) (Easy)
 - No. 171. [Excel Sheet Column Number](cc/str/titleToNumber.cc) (Easy)
 - No. 173. [Binary Search Tree Iterator](cc/tree/BSTIterator.h) (Medium)
