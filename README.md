@@ -296,6 +296,7 @@ Learn a new algorithm every day!
 
 - No. 1631. [Path With Minimum Effort](cc/graph/minimumEffortPath.cc) (Medium)
 - No. 1641. [Count Sorted Vowel Strings](cc/math/countVowelStrings.cc) (Medium)
+- No. 1658. [Minimum Operations to Reduce X to Zero](cc/sliding_window/MinOperations.h) (Medium)
 - No. 1663. [Smallest String With A Given Numeric Value](cc/str/getSmallestString.cc) (Medium)
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
