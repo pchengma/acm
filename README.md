@@ -13,6 +13,7 @@ Learn a new algorithm every day!
 
 - No. 1. [Two Sum](cc/vector/twoSum.cc) (Easy)
 - No. 2. [Add Two Numbers](cc/ll/addTwoNumbers.cc) (Medium)
+- No. 3. [Longest Substring Without Repeating Characters](cc/sliding_window/LengthOfLongestSubstring.h) (Medium)
 - No. 4. [Median of Two Sorted Arrays](cc/binary_search/findMedianSortedArrays.h) (Hard)
 - No. 7. [Reverse Integer](cc/stack/reverse.cc) (Medium)
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
@@ -295,6 +296,7 @@ Learn a new algorithm every day!
 
 - No. 1631. [Path With Minimum Effort](cc/graph/minimumEffortPath.cc) (Medium)
 - No. 1641. [Count Sorted Vowel Strings](cc/math/countVowelStrings.cc) (Medium)
+- No. 1658. [Minimum Operations to Reduce X to Zero](cc/sliding_window/MinOperations.h) (Medium)
 - No. 1663. [Smallest String With A Given Numeric Value](cc/str/getSmallestString.cc) (Medium)
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
