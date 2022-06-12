@@ -301,6 +301,12 @@ Learn a new algorithm every day!
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
 - No. 1679. [Max Number of K-Sum Pairs](cc/two_ptr/maxOperations.cc) (Medium)
+- No. 1695. [Maximum Erasure Value](cc/sliding_window/MaximumUniqueSubarray.h) (Medium)
+
+</details>
+
+<details open>
+<summary><b> 1701-1800 </b></summary>
 - No. 1721. [Swapping Nodes in a Linked List](cc/ll/swapNodes.cc) (Medium)
 
 </details>
