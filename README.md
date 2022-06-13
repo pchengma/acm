@@ -62,6 +62,7 @@ Learn a new algorithm every day!
 - No. 116. [Populating Next Right Pointers in Each Node](cc/tree/connect.cc) (Medium)
 - No. 117. [Populating Next Right Pointers in Each Node II](cc/tree/connect2.h) (Medium)
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
+- No. 120. [Triangle](cc/dp/MinimumTotal.h) (Medium)
 - No. 121. [Best Time to Buy and Sell Stock](cc/vector/maxProfit.cc) (Easy)
 - No. 127. [Word Ladder](cc/str/ladderLength.cc) (Hard)
 - No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
