@@ -166,6 +166,7 @@ Learn a new algorithm every day!
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 567. [Permutation in String](java/permutation/CheckInclusion.java) (Medium)
 - No. 581. [Shortest Unsorted Continuous Subarray](cc/sort/findUnsortedSubarray.cc) (Medium)
+- No. 583. [Delete Operation for Two Strings](cc/dp/MinDistance.h) (Medium)
 </details>
 
 <details open>
