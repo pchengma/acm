@@ -15,6 +15,7 @@ Learn a new algorithm every day!
 - No. 2. [Add Two Numbers](cc/ll/addTwoNumbers.cc) (Medium)
 - No. 3. [Longest Substring Without Repeating Characters](cc/sliding_window/LengthOfLongestSubstring.h) (Medium)
 - No. 4. [Median of Two Sorted Arrays](cc/binary_search/findMedianSortedArrays.h) (Hard)
+- No. 5. [Longest Palindromic Substring](cc/two_ptr/LongestPalindrome.h) (Medium)
 - No. 7. [Reverse Integer](cc/stack/reverse.cc) (Medium)
 - No. 8. [String to Integer (atoi)](cc/str/myAtoi.cc) (Medium)
 - No. 10. [Regular Expression Matching](java/dp/IsMatch.java) (Hard)
