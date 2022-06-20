@@ -202,6 +202,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 801-900 </b></summary>
 
+- No. 820. [Short Encoding of Words](cc/str/MinimumLengthEncoding.h) (Medium)
 - No. 844. [Backspace String Compare](cc/str/backspaceCompare.cc) (Easy)
 - No. 847. [Shortest Path Visiting All Nodes](java/graph/shortestPathLength.java) (Hard)
 - No. 849. [Maximize Distance to Closest Person](java/ll/MaxDistToClosest.java) (Medium)
