@@ -178,6 +178,7 @@ Learn a new algorithm every day!
 - No. 630. [Course Schedule III](cc/stack/ScheduleCourse.h) (Hard)
 - No. 647. [Palindromic Substrings](cc/dp/CountSubstrings.h) (Medium)
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
+- No. 665. [Non-decreasing Array](cc/array/CheckPossibility.h) (Medium)
 - No. 669. [Trim a Binary Search Tree](cc/tree/trimBST.cc) (Medium)
 - No. 680. [Valid Palindrome II](cc/str/validPalindrome.cc) (Easy)
 - No. 682. [Baseball Game](cc/stack/calPoints.cc) (Easy)
