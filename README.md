@@ -290,6 +290,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1401-1500 </b></summary>
 
+- No. 1423. [Maximum Points You Can Obtain from Cards](cc/sliding_window/MaxScore.h) (Medium)
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 - No. 1461. [Check If a String Contains All Binary Codes of Size K](cc/hash/HasAllCodes.h) (Medium)
 - No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
