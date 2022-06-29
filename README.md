@@ -143,6 +143,7 @@ Learn a new algorithm every day!
 <summary><b> 401-500 </b></summary>
 
 - No. 402. [Remove K Digits](cc/stack/removeKdigits.cc) (Medium)
+- No. 406. [Queue Reconstruction by Height](cc/sort/ReconstructQueue.h) (Medium)
 - No. 410. [Split Array Largest Sum](cc/binary_search/splitArray.cc) (Hard)
 - No. 413. [Arithmetic Slices](cc/slice/numberOfArithmeticSlices.cc) (Medium)
 - No. 416. [Partition Equal Subset Sum](cc/dp/canPartition.cc) (Medium)
