@@ -325,6 +325,8 @@ Learn a new algorithm every day!
 
 <details open>
 <summary><b> 1701-1800 </b></summary>
+
+- No. 1710. [Maximum Units on a Truck](cc/greedy/MaximumUnits.h) (Easy)
 - No. 1721. [Swapping Nodes in a Linked List](cc/ll/swapNodes.cc) (Medium)
 
 </details>
