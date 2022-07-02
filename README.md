@@ -296,6 +296,7 @@ Learn a new algorithm every day!
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 - No. 1461. [Check If a String Contains All Binary Codes of Size K](cc/hash/HasAllCodes.h) (Medium)
 - No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
+- No. 1465. [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](cc/sort/MaxArea.h) (Medium)
 - No. 1480. [Running Sum of 1d Array](cc/array/RunningSum.h) (Easy)
 </details>
 
