@@ -69,6 +69,7 @@ Learn a new algorithm every day!
 - No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
 - No. 133. [Clone Graph](cc/graph/cloneGraph.cc) (Medium)
 - No. 134. [Gas Station](cc/math/canCompleteCircuit.cc) (Medium)
+- No. 135. [Candy](cc/dp/Candy.h) (Hard)
 - No. 136. [Single Number](cc/bitwise/singleNumber.cc) (Easy)
 - No. 138. [Copy List with Random Pointer](cc/ll/copyRandomList.cc) (Medium)
 - No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)
