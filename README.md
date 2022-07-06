@@ -163,6 +163,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 501-600 </b></summary>
 
+- No. 509. [Fibonacci Number](cc/recursive/Fib.h) (Easy)
 - No. 520. [Detect Capital](cc/str/detectCapitalUse.cc) (Easy)
 - No. 525. [Contiguous Array](cc/array/findMaxLength.h) (Medium)
 - No. 532. [K-diff Pairs in an Array](cc/hash/findPairs.h) (Medium)
