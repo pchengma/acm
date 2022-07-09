@@ -327,7 +327,7 @@ Learn a new algorithm every day!
 - No. 1679. [Max Number of K-Sum Pairs](cc/two_ptr/maxOperations.cc) (Medium)
 - No. 1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](cc/str/MinPartitions.h) (Medium)
 - No. 1695. [Maximum Erasure Value](cc/sliding_window/MaximumUniqueSubarray.h) (Medium)
-
+- No. 1696. [Jump Game VI](cc/dp/MaxResult.h) (Medium)
 </details>
 
 <details open>
