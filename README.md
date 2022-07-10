@@ -203,6 +203,7 @@ Learn a new algorithm every day!
 - No. 740. [Delete and Earn](java/dp/DeleteAndEarn.java) (Medium)
 - No. 743. [Network Delay Time](cc/graph/networkDelayTime.cc) (Medium)
 - No. 745. [Prefix and Suffix Search](cc/prefix/WordFilter.h) (Hard)
+- No. 746. [Min Cost Climbing Stairs](cc/dp/MinCostClimbingStairs.h) (Easy)
 - No. 763. [Partition Labels](cc/greedy/partitionLabels.cc) (Medium)
 - No. 785. [Is Graph Bipartite?](cc/graph/isBipartite.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
