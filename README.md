@@ -89,6 +89,7 @@ Learn a new algorithm every day!
 - No. 173. [Binary Search Tree Iterator](cc/tree/BSTIterator.h) (Medium)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
 - No. 191. [Number of 1 Bits](cc/bitwise/HammingWeight.h) (Easy)
+- No. 199. [Binary Tree Right Side View](cc/tree/RightSideView.h) (Medium)
 </details>
 
 <details open>
