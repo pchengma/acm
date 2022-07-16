@@ -178,6 +178,7 @@ Learn a new algorithm every day!
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
 - No. 567. [Permutation in String](java/permutation/CheckInclusion.java) (Medium)
+- No. 576. [Out of Boundary Paths](cc/dp/FindPaths.h) (Medium)
 - No. 581. [Shortest Unsorted Continuous Subarray](cc/sort/findUnsortedSubarray.cc) (Medium)
 - No. 583. [Delete Operation for Two Strings](cc/dp/MinDistance.h) (Medium)
 </details>
