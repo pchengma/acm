@@ -187,6 +187,7 @@ Learn a new algorithm every day!
 <summary><b> 601-700 </b></summary>
 
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
+- No. 629. [K Inverse Pairs Array](cc/dp/KInversePairs.h) (Hard)
 - No. 630. [Course Schedule III](cc/stack/ScheduleCourse.h) (Hard)
 - No. 647. [Palindromic Substrings](cc/dp/CountSubstrings.h) (Medium)
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
