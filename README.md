@@ -24,6 +24,7 @@ Learn a new algorithm every day!
 - No. 13. [Roman to Integer](cc/str/romanToInt.cc) (Easy)
 - No. 14. [Longest Common Prefix](cc/prefix/LongestCommonPrefix.h) (Eash)
 - No. 15. [3Sum](cc/two_ptr/ThreeSum.h) (Medium)
+- No. 16. [3Sum Closest](cc/vector/ThreeSumClosest.h) (Medium)
 - No. 17. [Letter Combinations of a Phone Number](cc/math/letterCombinations.cc) (Medium)
 - No. 20. [Valid Parentheses](cc/stack/isValid.cc) (Easy)
 - No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
