@@ -52,6 +52,7 @@ Learn a new algorithm every day!
 - No. 82. [Remove Duplicates from Sorted List II](cc/ll/deleteDuplicates2.cc) (Medium)
 - No. 83. [Remove Duplicates from Sorted List](cc/ll/deleteDuplicates.cc) (Easy)
 - No. 84. [Largest Rectangle in Histogram](cc/stack/largestRectangleArea.cc) (Hard)
+- No. 86. [Partition List](cc/ll/Partition.h) (Medium)
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
 - No. 92. [Reverse Linked List II](cc/ll/ReverseBetween.h) (Medium)
 - No. 94. [Binary Tree Inorder Traversal](cc/tree/inorderTraversal.cc) (Easy)
