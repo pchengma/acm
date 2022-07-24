@@ -114,6 +114,7 @@ Learn a new algorithm every day!
 - No. 230. [Kth Smallest Element in a BST](java/tree/KthSmallest.java) (Medium)
 - No. 231. [Power of Two](cc/math/isPowerOfTwo.cc) (Easy)
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
+- No. 240. [Search a 2D Matrix II](cc/greedy/SearchMatrix.h) (Medium)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
 - No. 268. [Missing Number](cc/math/MissingNumber.h) (Easy)
