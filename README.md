@@ -33,6 +33,7 @@ Learn a new algorithm every day!
 - No. 29. [Divide Two Integers](cc/math/Divide.h) (Medium)
 - No. 31. [Next Permutation](cc/vector/nextPermutation.cc) (Medium)
 - No. 32. [Longest Valid Parentheses](cc/stack/LongestValidParentheses.h) (Medium)
+- No. 34. [Find First and Last Position of Element in Sorted Array](cc/binary_search/SearchRange.h) (Medium)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
