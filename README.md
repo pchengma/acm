@@ -67,6 +67,7 @@ Learn a new algorithm every day!
 - No. 102. [Binary Tree Level Order Traversal](cc/tree/levelOrder.cc) (Medium)
 - No. 104. [Maximum Depth of Binary Tree](cc/tree/maxDepth.cc) (Easy)
 - No. 105. [Construct Binary Tree from Preorder and Inorder Traversal](cc/tree/BuildTree.h) (Medium)
+- No. 114. [Flatten Binary Tree to Linked List](cc/tree/Flatten.h) (Medium)
 - No. 116. [Populating Next Right Pointers in Each Node](cc/tree/connect.cc) (Medium)
 - No. 117. [Populating Next Right Pointers in Each Node II](cc/tree/connect2.h) (Medium)
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
