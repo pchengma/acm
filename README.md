@@ -132,6 +132,7 @@ Learn a new algorithm every day!
 <summary><b> 301-400 </b></summary>
 
 - No. 304. [Range Sum Query 2D - Immutable](cc/vector/NumMatrix.h) (Medium)
+- No. 307. [Range Sum Query - Mutable](cc/design/NumArray.h) (Medium)
 - No. 310. [Minimum Height Trees](cc/tree/findMinHeightTrees.cc) (Medium)
 - No. 312. [Burst Balloons](cc/dp/maxCoins.cc) (Hard)
 - No. 315. [Count of Smaller Numbers After Self](cc/sort/CountSmaller.h) (Hard)
