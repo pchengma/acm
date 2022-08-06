@@ -172,6 +172,7 @@ Learn a new algorithm every day!
 - No. 452. [Minimum Number of Arrows to Burst Balloons](cc/sort/findMinArrowShots.cc) (Medium)
 - No. 454. [4Sum II](cc/two_sum/fourSumCount.h) (Medium)
 - No. 456. [132 Pattern](cc/stack/find132pattern.cc) (Medium)
+- No. 458. [Poor Pigs](cc/math/PoorPigs.h) (Hard)
 - No. 462. [Minimum Moves to Equal Array Elements II](cc/sort/MinMoves2.h) (Medium)
 - No. 473. [Matchsticks to Square](cc/dp/Makesquare.h) (Medium)
 - No. 474. [Ones and Zeroes](cc/dp/FindMaxForm.h) (Medium)
