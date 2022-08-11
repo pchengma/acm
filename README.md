@@ -60,6 +60,7 @@ Learn a new algorithm every day!
 - No. 92. [Reverse Linked List II](cc/ll/ReverseBetween.h) (Medium)
 - No. 94. [Binary Tree Inorder Traversal](cc/tree/inorderTraversal.cc) (Easy)
 - No. 97. [Interleaving String](cc/dp/IsInterleave.h) (Medium)
+- No. 98. [Validate Binary Search Tree](cc/tree/IsValidBST.h) (Medium)
 - No. 99. [Recover Binary Search Tree](cc/tree/recoverTree.cc) (Medium)
 </details>
 
