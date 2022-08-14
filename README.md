@@ -78,6 +78,7 @@ Learn a new algorithm every day!
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
 - No. 120. [Triangle](cc/dp/MinimumTotal.h) (Medium)
 - No. 121. [Best Time to Buy and Sell Stock](cc/vector/maxProfit.cc) (Easy)
+- No. 126. [Word Ladder II](cc/str/FindLadders.h) (Hard)
 - No. 127. [Word Ladder](cc/str/ladderLength.cc) (Hard)
 - No. 128. [Longest Consecutive Sequence](cc/set/LongestConsecutive.h) (Medium)
 - No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
