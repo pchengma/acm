@@ -30,6 +30,7 @@ Learn a new algorithm every day!
 - No. 19. [Remove Nth Node From End of List](cc/two_ptr/RemoveNthFromEnd.h) (Medium)
 - No. 20. [Valid Parentheses](cc/stack/isValid.cc) (Easy)
 - No. 21. [Merge Two Sorted Lists](cc/ll/mergeTwoListsv.cc) (Easy)
+- No. 22. [Generate Parentheses](cc/backtracking/GenerateParenthesis.h) (Medium)
 - No. 23. [Merge k Sorted Lists](cc/ll/mergeKLists.h) (Hard)
 - No. 24. [Swap Nodes in Pairs](cc/ll/swapPairs.cc) (Medium)
 - No. 29. [Divide Two Integers](cc/math/Divide.h) (Medium)
