@@ -246,6 +246,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 801-900 </b></summary>
 
+- No. 804. [Unique Morse Code Words](cc/hash/UniqueMorseRepresentations.h) (Easy)
 - No. 820. [Short Encoding of Words](cc/str/MinimumLengthEncoding.h) (Medium)
 - No. 823. [Binary Trees With Factors](cc/tree/NumFactoredBinaryTrees.h) (Medium)
 - No. 844. [Backspace String Compare](cc/str/backspaceCompare.cc) (Easy)
