@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220817.">
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20220818.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,9 +81,9 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -386,14 +386,8 @@
       <workItem from="1660613232788" duration="88000" />
       <workItem from="1660630785376" duration="439000" />
       <workItem from="1660697749893" duration="100000" />
-      <workItem from="1660788501626" duration="2000" />
-    </task>
-    <task id="LOCAL-00222" summary="Updated daily exercises 20220701.">
-      <created>1656637280444</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1656637280444</updated>
+      <workItem from="1660788501626" duration="330000" />
+      <workItem from="1660876111837" duration="1000" />
     </task>
     <task id="LOCAL-00223" summary="Updated daily exercises 20220702.">
       <created>1656723237938</created>
@@ -731,7 +725,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660697841947</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="Updated daily exercises 20220818.">
+      <created>1660788566126</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1660788566127</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -751,7 +752,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Updated daily exercises 20220725." />
     <MESSAGE value="Updated daily exercises 20220726." />
     <MESSAGE value="Updated daily exercises 20220727." />
     <MESSAGE value="Updated daily exercises 20220728." />
@@ -776,7 +776,8 @@
     <MESSAGE value="Updated daily exercises 20220816." />
     <MESSAGE value="Updated LeetCode status." />
     <MESSAGE value="Updated daily exercises 20220817." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220817." />
+    <MESSAGE value="Updated daily exercises 20220818." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20220818." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
