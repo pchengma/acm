@@ -273,6 +273,7 @@ Learn a new algorithm every day!
 - No. 905. [Sort Array By Parity](cc/two_ptr/sortArrayByParity.cc) (Easy)
 - No. 916. [Word Subsets](cc/str/WordSubsets.h) (Medium)
 - No. 923. [3Sum With Multiplicity](cc/two_sum/threeSumMulti.cc) (Medium)
+- No. 936. [Stamping The Sequence](cc/greedy/MovesToStamp.h) (Hard)
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
 - No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
 - No. 946. [Validate Stack Sequences](cc/greedy/validateStackSequences.cc) (Medium)
