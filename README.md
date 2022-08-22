@@ -153,6 +153,7 @@ Learn a new algorithm every day!
 - No. 329. [Longest Increasing Path in a Matrix](cc/dfs/LongestIncreasingPath.h) (Hard)
 - No. 338. [Counting Bits](cc/bitwise/countBits.cc) (Easy)
 - No. 341. [Flatten Nested List Iterator](cc/design/NestedIterator.h) (Medium)
+- No. 342. [Power of Four](cc/recursive/IsPowerOfFour.h) (Easy)
 - No. 344. [Reverse String](cc/str/reverseString.cc) (Easy)
 - No. 347. [Top K Frequent Elements](cc/heap/topKFrequent.cc) (Medium)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
