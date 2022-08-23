@@ -126,6 +126,7 @@ Learn a new algorithm every day!
 - No. 230. [Kth Smallest Element in a BST](java/tree/KthSmallest.java) (Medium)
 - No. 231. [Power of Two](cc/math/isPowerOfTwo.cc) (Easy)
 - No. 232. [Implement Queue using Stacks](cc/stack/MyQueue.h) (Easy)
+- No. 234. [Palindrome Linked List](cc/ll/IsPalindrome.h) (Easy)
 - No. 235. [Lowest Common Ancestor of a Binary Search Tree](cc/tree/LowestCommonAncestor2.h) (Easy)
 - No. 236. [Lowest Common Ancestor of a Binary Tree](cc/tree/LowestCommonAncestor.h) (Medium)
 - No. 240. [Search a 2D Matrix II](cc/greedy/SearchMatrix.h) (Medium)
