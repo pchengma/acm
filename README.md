@@ -260,6 +260,7 @@ Learn a new algorithm every day!
 - No. 856. [Score of Parentheses](cc/math/scoreOfParentheses.cc) (Medium)
 - No. 858. [Mirror Reflection](cc/math/MirrorReflection.h) (Medium)
 - No. 867. [Transpose Matrix](cc/vector/Transpose.h) (Easy)
+- No. 869. [Reordered Power of 2](cc/str/ReorderedPowerOf2.h) (Medium)
 - No. 871. [Minimum Number of Refueling Stops](cc/queue/MinRefuelStops.h) (Hard)
 - No. 875. [Koko Eating Bananas](cc/binary_search/minEatingSpeed.cc) (Medium)
 - No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
