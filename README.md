@@ -108,6 +108,7 @@ Learn a new algorithm every day!
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
 - No. 191. [Number of 1 Bits](cc/bitwise/HammingWeight.h) (Easy)
 - No. 199. [Binary Tree Right Side View](cc/tree/RightSideView.h) (Medium)
+- No. 200. [Number of Islands](cc/vector/NumIslands.h) (Medium)
 </details>
 
 <details open>

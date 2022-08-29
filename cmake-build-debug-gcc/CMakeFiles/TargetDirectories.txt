@@ -1,0 +1,2 @@
+/Users/ma/CLionProjects/acm/cmake-build-debug-gcc/CMakeFiles/rebuild_cache.dir
+/Users/ma/CLionProjects/acm/cmake-build-debug-gcc/CMakeFiles/edit_cache.dir
