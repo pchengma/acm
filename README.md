@@ -44,6 +44,7 @@ Learn a new algorithm every day!
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
+- No. 48. [Rotate Image](cc/vector/Rotate.h) (Medium)
 - No. 51. [N-Queens](cc/recursive/NQueens.h) (Hard)
 - No. 52. [N-Queens II](cc/bitmask/TotalNQueens.h) (Hard)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
