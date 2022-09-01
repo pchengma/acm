@@ -354,6 +354,7 @@ Learn a new algorithm every day!
 
 - No. 1423. [Maximum Points You Can Obtain from Cards](cc/sliding_window/MaxScore.h) (Medium)
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
+- No. 1448. [Count Good Nodes in Binary Tree](cc/dfs/GoodNodes.h) (Medium)
 - No. 1461. [Check If a String Contains All Binary Codes of Size K](cc/hash/HasAllCodes.h) (Medium)
 - No. 1463. [Cherry Pickup II](cc/dp/cherryPickup.cc) (Hard)
 - No. 1465. [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](cc/sort/MaxArea.h) (Medium)
