@@ -220,6 +220,7 @@ Learn a new algorithm every day!
 <summary><b> 601-700 </b></summary>
 
 - No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
+- No. 606. [Construct String from Binary Tree](cc/tree/Tree2str.h) (Easy)
 - No. 629. [K Inverse Pairs Array](cc/dp/KInversePairs.h) (Hard)
 - No. 630. [Course Schedule III](cc/stack/ScheduleCourse.h) (Hard)
 - No. 637. [Average of Levels in Binary Tree](cc/bfs/AverageOfLevels.h) (Easy)
