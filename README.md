@@ -36,6 +36,7 @@ Learn a new algorithm every day!
 - No. 23. [Merge k Sorted Lists](cc/ll/mergeKLists.h) (Hard)
 - No. 24. [Swap Nodes in Pairs](cc/ll/swapPairs.cc) (Medium)
 - No. 25. [Reverse Nodes in k-Group](cc/ll/ReverseKGroup.h) (Hard)
+- No. 26. [Remove Duplicates from Sorted Array](cc/deduplicate/RemoveDuplicates.h) (Easy)
 - No. 29. [Divide Two Integers](cc/math/Divide.h) (Medium)
 - No. 30. [Substring with Concatenation of All Words](cc/str/FindSubstring.h) (Hard)
 - No. 31. [Next Permutation](cc/vector/nextPermutation.cc) (Medium)
