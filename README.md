@@ -400,3 +400,10 @@ Learn a new algorithm every day!
 - No. 1721. [Swapping Nodes in a Linked List](cc/ll/swapNodes.cc) (Medium)
 
 </details>
+
+<details open>
+<summary><b> 1901-2000 </b></summary>
+
+- No. 1996. [The Number of Weak Characters in the Game](cc/sort/NumberOfWeakCharacters.h) (Medium)
+
+</details>
