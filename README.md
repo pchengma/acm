@@ -354,6 +354,7 @@ Learn a new algorithm every day!
 - No. 1354. [Construct Target Array With Multiple Sums](cc/stack/IsPossible.h) (Hard)
 - No. 1359. [Count All Valid Pickup and Delivery Options](cc/math/countOrders.cc) (Hard)
 - No. 1379. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](cc/tree/GetTargetCopy.h) (Medium)
+- No. 1383. [Maximum Performance of a Team](cc/stack/MaxPerformance.h) (Hard)
 - No. 1396. [Design Underground System](cc/map/UndergroundSystem.h) (Medium)
 </details>
 
