@@ -348,7 +348,7 @@ Learn a new algorithm every day!
 - No. 1329. [Sort the Matrix Diagonally](cc/sort/DiagonalSort.h) (Medium)
 - No. 1332. [Remove Palindromic Subsequences](cc/str/RemovePalindromeSub.h) (Easy)
   No. 1337. [The K Weakest Rows in a Matrix](cc/set/kWeakestRows.cc) (Easy)
-- No. 1338. [Reduce Array Size to The Half]() (Medium)
+- No. 1338. [Reduce Array Size to The Half](cc/greedy/MinSetSize.h) (Medium)
 - No. 1342. [Number of Steps to Reduce a Number to Zero](cc/array/NumberOfSteps.h) (Easy)
 - No. 1345. [Jump Game IV](java/graph/MinJumps.java) (Hard)
 - No. 1354. [Construct Target Array With Multiple Sums](cc/stack/IsPossible.h) (Hard)
