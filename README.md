@@ -292,6 +292,7 @@ Learn a new algorithm every day!
 - No. 938. [Range Sum of BST](cc/tree/rangeSumBST.cc) (Easy)
 - No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
 - No. 946. [Validate Stack Sequences](cc/greedy/validateStackSequences.cc) (Medium)
+- No. 948. [Bag of Tokens](cc/sort/BagOfTokensScore.h) (Medium)
 - No. 967. [Numbers With Same Consecutive Differences](cc/dfs/NumsSameConsecDiff.h) (Medium)
 - No. 968. [Binary Tree Cameras](cc/dp/MinCameraCover.h) (Hard)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
