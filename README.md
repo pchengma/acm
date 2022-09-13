@@ -174,6 +174,7 @@ Learn a new algorithm every day!
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
 - No. 389. [Find the Difference](cc/str/findTheDifference.h) (Easy)
 - No. 392. [Is Subsequence](cc/two_ptr/isSubsequence.cc) (Easy)
+- No. 393. [UTF-8 Validation](cc/bitmask/ValidUtf8.h) (Medium)
 - No. 394. [Decode String](cc/stack/calculate.cc) (Medium)
 - No. 399. [Evaluate Division](cc/graph/calcEquation.cc) (Medium)
 </details>
