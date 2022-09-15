@@ -412,3 +412,10 @@ Learn a new algorithm every day!
 - No. 1996. [The Number of Weak Characters in the Game](cc/sort/NumberOfWeakCharacters.h) (Medium)
 
 </details>
+
+<details open>
+<summary><b> 1901-2000 </b></summary>
+
+- No. 2007. [Find Original Array From Doubled Array](cc/hash/FindOriginalArray.h) (Medium)
+
+</details>
