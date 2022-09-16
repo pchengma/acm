@@ -403,6 +403,7 @@ Learn a new algorithm every day!
 
 - No. 1710. [Maximum Units on a Truck](cc/greedy/MaximumUnits.h) (Easy)
 - No. 1721. [Swapping Nodes in a Linked List](cc/ll/swapNodes.cc) (Medium)
+- No. 1770. [Maximum Score from Performing Multiplication Operations](cc/dp/MaximumScore.h) (Medium)
 
 </details>
 
