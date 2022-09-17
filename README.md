@@ -158,6 +158,7 @@ Learn a new algorithm every day!
 - No. 322. [Coin Change](cc/dp/CoinChange.h) (Medium)
 - No. 326. [Power of Three](cc/math/IsPowerOfThree.h) (Easy)
 - No. 329. [Longest Increasing Path in a Matrix](cc/dfs/LongestIncreasingPath.h) (Hard)
+- No. 336. [Palindrome Pairs](cc/stack/PalindromePairs.h) (Hard)
 - No. 338. [Counting Bits](cc/bitwise/countBits.cc) (Easy)
 - No. 341. [Flatten Nested List Iterator](cc/design/NestedIterator.h) (Medium)
 - No. 342. [Power of Four](cc/recursive/IsPowerOfFour.h) (Easy)
