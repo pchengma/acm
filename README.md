@@ -44,6 +44,7 @@ Learn a new algorithm every day!
 - No. 34. [Find First and Last Position of Element in Sorted Array](cc/binary_search/SearchRange.h) (Medium)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
+- No. 42. [Trapping Rain Water](cc/two_ptr/Trap.h) (Hard)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
 - No. 48. [Rotate Image](cc/vector/Rotate.h) (Medium)
 - No. 51. [N-Queens](cc/recursive/NQueens.h) (Hard)
