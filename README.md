@@ -255,6 +255,7 @@ Learn a new algorithm every day!
 - No. 745. [Prefix and Suffix Search](cc/prefix/WordFilter.h) (Hard)
 - No. 746. [Min Cost Climbing Stairs](cc/dp/MinCostClimbingStairs.h) (Easy)
 - No. 763. [Partition Labels](cc/greedy/partitionLabels.cc) (Medium)
+- No. 718. [Maximum Length of Repeated Subarray](cc/dp/FindLength.h) (Medium)
 - No. 785. [Is Graph Bipartite?](cc/graph/isBipartite.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 792. [Number of Matching Subsequences](cc/binary_search/NumMatchingSubseq.h) (Medium)
