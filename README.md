@@ -399,6 +399,7 @@ Learn a new algorithm every day!
 - No. 1672. [Richest Customer Wealth](cc/array/maximumWealth.h) (Easy)
 - No. 1675. [Minimize Deviation in Array](cc/math/minimumDeviation.cc) (Hard)
 - No. 1679. [Max Number of K-Sum Pairs](cc/two_ptr/maxOperations.cc) (Medium)
+- No. 1680. [Concatenation of Consecutive Binary Numbers]() (Medium)
 - No. 1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](cc/str/MinPartitions.h) (Medium)
 - No. 1695. [Maximum Erasure Value](cc/sliding_window/MaximumUniqueSubarray.h) (Medium)
 - No. 1696. [Jump Game VI](cc/dp/MaxResult.h) (Medium)
