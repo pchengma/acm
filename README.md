@@ -235,6 +235,7 @@ Learn a new algorithm every day!
 - No. 630. [Course Schedule III](cc/stack/ScheduleCourse.h) (Hard)
 - No. 637. [Average of Levels in Binary Tree](cc/bfs/AverageOfLevels.h) (Easy)
 - No. 647. [Palindromic Substrings](cc/dp/CountSubstrings.h) (Medium)
+- No. 658. [Find K Closest Elements](cc/sort/FindClosestElements.h) (Medium)
 - No. 659. [Split Array into Consecutive Subsequences](cc/str/IsPossible.h) (Medium)
 - No. 662. [Maximum Width of Binary Tree](cc/tree/widthOfBinaryTree.cc) (Medium)
 - No. 665. [Non-decreasing Array](cc/array/CheckPossibility.h) (Medium)
