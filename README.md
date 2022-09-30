@@ -127,6 +127,7 @@ Learn a new algorithm every day!
 - No. 215. [Kth Largest Element in an Array](cc/vector/FindKthLargest.h) (Medium)
 - No. 216. [Combination Sum III](cc/two_sum/combinationSum3.cc) (Medium)
 - No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
+- No. 218. [The Skyline Problem](cc/map/GetSkyline.h) (Hard)
 - No. 221. [Maximal Square](cc/dp/maximalSquare.cc) (Medium)
 - No. 225. [Implement Stack using Queues](cc/queue/MyStack.h) (Easy)
 - No. 227. [Basic Calculator II](cc/stack/calculate.cc) (Medium)
