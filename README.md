@@ -82,6 +82,7 @@ Learn a new algorithm every day!
 - No. 104. [Maximum Depth of Binary Tree](cc/tree/maxDepth.cc) (Easy)
 - No. 105. [Construct Binary Tree from Preorder and Inorder Traversal](cc/tree/BuildTree.h) (Medium)
 - No. 108. [Convert Sorted Array to Binary Search Tree](cc/tree/SortedArrayToBST.h) (Easy)
+- No. 112. [Path Sum](cc/tree/HasPathSum.h) (Easy)
 - No. 113. [Path Sum II](cc/dfs/PathSum.h) (Medium)
 - No. 114. [Flatten Binary Tree to Linked List](cc/tree/Flatten.h) (Medium)
 - No. 116. [Populating Next Right Pointers in Each Node](cc/tree/connect.cc) (Medium)
