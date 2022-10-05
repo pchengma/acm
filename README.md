@@ -234,6 +234,7 @@ Learn a new algorithm every day!
 - No. 606. [Construct String from Binary Tree](cc/tree/Tree2str.h) (Easy)
 - No. 609. [Find Duplicate File in System](cc/map/FindDuplicate.h) (Medium)
 - No. 622. [Design Circular Queue](cc/design/MyCircularQueue.h) (Medium)
+- No. 623. [Add One Row to Tree](cc/bfs/AddOneRow.h) (Medium)
 - No. 629. [K Inverse Pairs Array](cc/dp/KInversePairs.h) (Hard)
 - No. 630. [Course Schedule III](cc/stack/ScheduleCourse.h) (Hard)
 - No. 637. [Average of Levels in Binary Tree](cc/bfs/AverageOfLevels.h) (Easy)
