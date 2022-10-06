@@ -311,6 +311,7 @@ Learn a new algorithm every day!
 - No. 967. [Numbers With Same Consecutive Differences](cc/dfs/NumsSameConsecDiff.h) (Medium)
 - No. 968. [Binary Tree Cameras](cc/dp/MinCameraCover.h) (Hard)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
+- No. 981. [Time Based Key-Value Store](cc/design/TimeMap.h) (Medium)
 - No. 985. [Sum of Even Numbers After Queries](cc/vector/SumEvenAfterQueries.h) (Medium)
 - No. 987. [Vertical Order Traversal of a Binary Tree](cc/bfs/VerticalTraversal.h) (Hard)
 - No. 990. [Satisfiability of Equality Equations](cc/str/EquationsPossible.h) (Medium)
