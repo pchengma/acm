@@ -259,6 +259,7 @@ Learn a new algorithm every day!
 - No. 705. [Design HashSet](cc/hash/MyHashSet.h) (Easy)
 - No. 706. [Design HashMap](cc/hash/MyHashMap.h) (Easy)
 - No. 729. [My Calendar I](cc/design/MyCalendar.h) (Medium)
+- No. 732. [My Calendar III](cc/design/MyCalendarThree.h) (Hard)
 - No. 740. [Delete and Earn](java/dp/DeleteAndEarn.java) (Medium)
 - No. 743. [Network Delay Time](cc/graph/networkDelayTime.cc) (Medium)
 - No. 745. [Prefix and Suffix Search](cc/prefix/WordFilter.h) (Hard)
