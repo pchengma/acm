@@ -42,6 +42,7 @@ Learn a new algorithm every day!
 - No. 30. [Substring with Concatenation of All Words](cc/str/FindSubstring.h) (Hard)
 - No. 31. [Next Permutation](cc/vector/nextPermutation.cc) (Medium)
 - No. 32. [Longest Valid Parentheses](cc/stack/LongestValidParentheses.h) (Medium)
+- No. 33. [Search in Rotated Sorted Array](cc/binary_search/Search.h) (Medium)
 - No. 34. [Find First and Last Position of Element in Sorted Array](cc/binary_search/SearchRange.h) (Medium)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
