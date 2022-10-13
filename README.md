@@ -141,6 +141,7 @@ Learn a new algorithm every day!
 - No. 234. [Palindrome Linked List](cc/ll/IsPalindrome.h) (Easy)
 - No. 235. [Lowest Common Ancestor of a Binary Search Tree](cc/tree/LowestCommonAncestor2.h) (Easy)
 - No. 236. [Lowest Common Ancestor of a Binary Tree](cc/tree/LowestCommonAncestor.h) (Medium)
+- No. 237. [Delete Node in a Linked List](cc/design/DeleteNode.h) (Medium)
 - No. 240. [Search a 2D Matrix II](cc/greedy/SearchMatrix.h) (Medium)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
