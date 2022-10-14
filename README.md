@@ -445,5 +445,6 @@ Learn a new algorithm every day!
 <summary><b> 1901-2000 </b></summary>
 
 - No. 2007. [Find Original Array From Doubled Array](cc/hash/FindOriginalArray.h) (Medium)
+- No. 2095. [Delete the Middle Node of a Linked List](cc/ll/DeleteMiddle.h) (Medium)
 
 </details>
