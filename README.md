@@ -245,6 +245,7 @@ Learn a new algorithm every day!
 - No. 629. [K Inverse Pairs Array](cc/dp/KInversePairs.h) (Hard)
 - No. 630. [Course Schedule III](cc/stack/ScheduleCourse.h) (Hard)
 - No. 637. [Average of Levels in Binary Tree](cc/bfs/AverageOfLevels.h) (Easy)
+- No. 645. [Set Mismatch](cc/map/FindErrorNums.h) (Easy)
 - No. 647. [Palindromic Substrings](cc/dp/CountSubstrings.h) (Medium)
 - No. 653. [Two Sum IV - Input is a BST](cc/tree/FindTarget.h) (Easy)
 - No. 658. [Find K Closest Elements](cc/sort/FindClosestElements.h) (Medium)
