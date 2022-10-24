@@ -364,6 +364,7 @@ Learn a new algorithm every day!
 - No. 1202. [Smallest String With Swaps](cc/dfs/smallestStringWithSwaps.cc) (Medium)
 - No. 1209. [Remove All Adjacent Duplicates in String II](cc/stack/removeDuplicates.cc) (Medium)
 - No. 1220. [Count Vowels Permutation](cc/dfs/CountVowelPermutation.h) (Hard)
+- No. 1239. [Maximum Length of a Concatenated String with Unique Characters](cc/set/MaxLength.h) (Medium)
 - No. 1249. [Minimum Remove to Make Valid Parentheses](cc/stack/minRemoveToMakeValid.cc) (Medium)
 - No. 1260. [Shift 2D Grid](cc/vector/shiftGrid.cc) (Easy)
 - No. 1268. [Search Suggestions System](cc/binary_search/SuggestedProducts.h) (Medium)
