@@ -220,6 +220,7 @@ Learn a new algorithm every day!
 
 - No. 509. [Fibonacci Number](cc/recursive/Fib.h) (Easy)
 - No. 520. [Detect Capital](cc/str/detectCapitalUse.cc) (Easy)
+- No. 523. [Continuous Subarray Sum](cc/map/CheckSubarraySum.h) (Medium)
 - No. 525. [Contiguous Array](cc/array/findMaxLength.h) (Medium)
 - No. 532. [K-diff Pairs in an Array](cc/hash/findPairs.h) (Medium)
 - No. 535. [Encode and Decode TinyURL](cc/str/TinyURL.h) (Medium)
