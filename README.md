@@ -466,5 +466,6 @@ Learn a new algorithm every day!
 
 - No. 2007. [Find Original Array From Doubled Array](cc/hash/FindOriginalArray.h) (Medium)
 - No. 2095. [Delete the Middle Node of a Linked List](cc/ll/DeleteMiddle.h) (Medium)
+- No. 2136. [Earliest Possible Day of Full Bloom](cc/greedy/EarliestFullBloom.h) (Hard)
 
 </details>
