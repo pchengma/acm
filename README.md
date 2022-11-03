@@ -466,10 +466,17 @@ Learn a new algorithm every day!
 </details>
 
 <details open>
-<summary><b> 1901-2000 </b></summary>
+<summary><b> 2001-2100 </b></summary>
 
 - No. 2007. [Find Original Array From Doubled Array](cc/hash/FindOriginalArray.h) (Medium)
 - No. 2095. [Delete the Middle Node of a Linked List](cc/ll/DeleteMiddle.h) (Medium)
+
+</details>
+
+<details open>
+<summary><b> 2101-2200 </b></summary>
+
+- No. 2131. [Longest Palindrome by Concatenating Two Letter Words](cc/str/LongestPalindrome.h) (Medium)
 - No. 2136. [Earliest Possible Day of Full Bloom](cc/greedy/EarliestFullBloom.h) (Hard)
 
 </details>
