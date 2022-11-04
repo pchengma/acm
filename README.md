@@ -177,6 +177,7 @@ Learn a new algorithm every day!
 - No. 341. [Flatten Nested List Iterator](cc/design/NestedIterator.h) (Medium)
 - No. 342. [Power of Four](cc/recursive/IsPowerOfFour.h) (Easy)
 - No. 344. [Reverse String](cc/str/reverseString.cc) (Easy)
+- No. 345. [Reverse Vowels of a String](cc/str/ReverseVowels.h) (Easy)
 - No. 347. [Top K Frequent Elements](cc/heap/topKFrequent.cc) (Medium)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 354. [Russian Doll Envelopes](cc/binary_search/MaxEnvelopes.h) (Hard)
