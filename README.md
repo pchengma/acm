@@ -131,6 +131,7 @@ Learn a new algorithm every day!
 - No. 206. [Reverse Linked List](cc/ll/reverseList.cc) (Easy)
 - No. 210. [Course Schedule II](cc/graph/findOrder.cc) (Medium)
 - No. 211. [Design Add and Search Words Data Structure](cc/str/WordDictionary.h) (Medium)
+- No. 212. [Word Search II](c/dfs/findWords.c) (Hard)
 - No. 215. [Kth Largest Element in an Array](cc/vector/FindKthLargest.h) (Medium)
 - No. 216. [Combination Sum III](cc/two_sum/combinationSum3.cc) (Medium)
 - No. 217. [Contains Duplicate](cc/map/containsDuplicate.cc) (Easy)
