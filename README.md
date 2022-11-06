@@ -312,6 +312,7 @@ Learn a new algorithm every day!
 - No. 890. [Find and Replace Pattern](cc/str/FindAndReplacePattern.h) (Medium)
 - No. 895. [Maximum Frequency Stack](cc/stack/FreqStack.cc) (Hard)
 - No. 897. [Increasing Order Search Tree](cc/tree/increasingBST.cc) (Easy)
+- No. 899. [Orderly Queue](c/sliding_window/orderlyQueue.c) (Hard)
 </details>
 
 <details open>
