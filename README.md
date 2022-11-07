@@ -385,8 +385,9 @@ Learn a new algorithm every day!
 <summary><b> 1301-1400 </b></summary>
 
 - No. 1302. [Deepest Leaves Sum](cc/tree/deepestLeavesSum.h) (Medium)
-- No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
 - No. 1305. [All Elements in Two Binary Search Trees](cc/stack/getAllElements.cc) (Medium)
+- No. 1306. [Jump Game III](cc/dp/canReach.cc) (Medium)
+- No. 1323. [Maximum 69 Number](c/greedy/maximum69Number.c) (Easy)
 - No. 1328. [Break a Palindrome](cc/str/BreakPalindrome.h) (Medium)
 - No. 1329. [Sort the Matrix Diagonally](cc/sort/DiagonalSort.h) (Medium)
 - No. 1332. [Remove Palindromic Subsequences](cc/str/RemovePalindromeSub.h) (Easy)
