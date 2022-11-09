@@ -318,6 +318,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 901-1000 </b></summary>
 
+- No. 901. [Online Stock Span](c/stack/stockSpannerFree.c) (Medium)
 - No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
 - No. 905. [Sort Array By Parity](cc/two_ptr/sortArrayByParity.cc) (Easy)
 - No. 916. [Word Subsets](cc/str/WordSubsets.h) (Medium)
