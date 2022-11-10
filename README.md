@@ -352,6 +352,7 @@ Learn a new algorithm every day!
 - No. 1029. [Two City Scheduling](cc/sort/twoCitySchedCost.cc) (Medium)
 - No. 1041. [Robot Bounded In Circle](cc/math/isRobotBounded.cc) (Medium)
 - No. 1046. [Last Stone Weight](cc/sort/lastStoneWeight.cc) (Easy)
+- No. 1047. [Remove All Adjacent Duplicates In String](c/stack/removeDuplicates.c) (Easy)
 - No. 1048. [Longest String Chain](cc/dp/LongestStrChain.h) (Medium)
 - No. 1074. [Number of Submatrices That Sum to Target](cc/prefix/NumSubmatrixSumTarget.h) (Hard)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
