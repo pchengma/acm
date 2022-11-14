@@ -49,6 +49,7 @@ Learn a new algorithm every day!
 - No. 37. [Sudoku Solver](c/backtracking/solveSudoku.c) (Hard)
 - No. 38. [Count and Say](cc/vector/CountAndSay.h) (Medium)
 - No. 39. [Combination Sum](cc/backtracking/combinationSum.cc) (Medium)
+- No. 40. [Combination Sum II](c/backtracking/combinationSum.c) (Medium)
 - No. 42. [Trapping Rain Water](cc/two_ptr/Trap.h) (Hard)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
 - No. 48. [Rotate Image](cc/vector/Rotate.h) (Medium)
