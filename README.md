@@ -188,6 +188,7 @@ Learn a new algorithm every day!
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
 - No. 354. [Russian Doll Envelopes](cc/binary_search/MaxEnvelopes.h) (Hard)
 - No. 363. [Max Sum of Rectangle No Larger Than K](cc/vector/MaxSumSubmatrix.h) (Hard)
+- No. 374. [Guess Number Higher or Lower](c/binary_search/guessNumber.c) (Easy)
 - No. 376. [Wiggle Subsequence](cc/dp/WiggleMaxLength.h) (Medium)
 - No. 377. [Combination Sum IV](cc/dp/CombinationSum4.h) (Medium)
 - No. 378. [Kth Smallest Element in a Sorted Matrix](cc/binary_search/KthSmallest.h) (Medium)
