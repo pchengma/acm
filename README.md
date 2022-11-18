@@ -156,6 +156,7 @@ Learn a new algorithm every day!
 - No. 240. [Search a 2D Matrix II](cc/greedy/SearchMatrix.h) (Medium)
 - No. 242. [Valid Anagram](cc/str/isAnagram.cc) (Easy)
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
+- No. 263. [Ugly Number](c/recursive/isUgly.c) (Easy)
 - No. 268. [Missing Number](cc/math/MissingNumber.h) (Easy)
 - No. 284. [Peeking Iterator](cc/design/PeekingIterator.h) (Medium)
 - No. 287. [Find the Duplicate Number](cc/binary_search/findDuplicate.cc) (Medium)
