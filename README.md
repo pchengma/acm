@@ -245,6 +245,7 @@ Learn a new algorithm every day!
 - No. 576. [Out of Boundary Paths](cc/dp/FindPaths.h) (Medium)
 - No. 581. [Shortest Unsorted Continuous Subarray](cc/sort/findUnsortedSubarray.cc) (Medium)
 - No. 583. [Delete Operation for Two Strings](cc/dp/MinDistance.h) (Medium)
+- No. 587. [Erect the Fence](cc/sort/OuterTrees.h) (Hard)
 </details>
 
 <details open>
