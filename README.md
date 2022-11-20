@@ -143,6 +143,7 @@ Learn a new algorithm every day!
 - No. 221. [Maximal Square](cc/dp/maximalSquare.cc) (Medium)
 - No. 222. [Count Complete Tree Nodes](c/tree/countNodes.c) (Medium)
 - No. 223. [Rectangle Area](c/math/computeArea.c) (Medium)
+- No. 224. [Basic Calculator](c/design/calculate.c) (Hard)
 - No. 225. [Implement Stack using Queues](cc/queue/MyStack.h) (Easy)
 - No. 227. [Basic Calculator II](cc/stack/calculate.cc) (Medium)
 - No. 228. [Summary Ranges](cc/str/summaryRanges.cc) (Easy)
