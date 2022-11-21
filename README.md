@@ -478,6 +478,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1901-2000 </b></summary>
 
+- No. 1926. [Nearest Exit from Entrance in Maze]() (Medium)
 - No. 1996. [The Number of Weak Characters in the Game](cc/sort/NumberOfWeakCharacters.h) (Medium)
 
 </details>
