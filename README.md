@@ -159,6 +159,7 @@ Learn a new algorithm every day!
 - No. 258. [Add Digits](cc/math/addDigits.h) (Easy)
 - No. 263. [Ugly Number](c/recursive/isUgly.c) (Easy)
 - No. 268. [Missing Number](cc/math/MissingNumber.h) (Easy)
+- No. 279. [Perfect Squares](c/memorization/numSquares.c) (Medium)
 - No. 284. [Peeking Iterator](cc/design/PeekingIterator.h) (Medium)
 - No. 287. [Find the Duplicate Number](cc/binary_search/findDuplicate.cc) (Medium)
 - No. 289. [Game of Life](cc/vector/gameOfLife.cc) (Medium)
