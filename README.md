@@ -221,6 +221,7 @@ Learn a new algorithm every day!
 - No. 429. [N-ary Tree Level Order Traversal](cc/bfs/LevelOrder.h) (Medium)
 - No. 433. [Minimum Genetic Mutation](cc/bfs/MinMutation.h) (Medium)
 - No. 438. [Find All Anagrams in a String](cc/sliding_window/findAnagrams.h) (Medium)
+- No. 446. [Arithmetic Slices II - Subsequence](c/dp/numberOfArithmeticSlices.c) (Hard)
 - No. 452. [Minimum Number of Arrows to Burst Balloons](cc/sort/findMinArrowShots.cc) (Medium)
 - No. 454. [4Sum II](cc/two_sum/fourSumCount.h) (Medium)
 - No. 456. [132 Pattern](cc/stack/find132pattern.cc) (Medium)
