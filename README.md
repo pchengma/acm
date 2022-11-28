@@ -504,3 +504,10 @@ Learn a new algorithm every day!
 - No. 2136. [Earliest Possible Day of Full Bloom](cc/greedy/EarliestFullBloom.h) (Hard)
 
 </details>
+
+<details open>
+<summary><b> 2201-2300 </b></summary>
+
+- No. 2225. [Find Players With Zero or One Losses](c/hash/findWinners.c) (Medium)
+
+</details>
