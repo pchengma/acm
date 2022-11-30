@@ -395,6 +395,7 @@ Learn a new algorithm every day!
 - No. 1249. [Minimum Remove to Make Valid Parentheses](cc/stack/minRemoveToMakeValid.cc) (Medium)
 - No. 1260. [Shift 2D Grid](cc/vector/shiftGrid.cc) (Easy)
 - No. 1268. [Search Suggestions System](cc/binary_search/SuggestedProducts.h) (Medium)
+- No. 1207. [Unique Number of Occurrences](c/hash/uniqueOccurrences.c) (Easy)
 - No. 1288. [Remove Covered Intervals](cc/sort/removeCoveredIntervals.cc) (Medium)
 - No. 1291. [Sequential Digits](cc/str/sequentialDigits.cc) (Medium)
 - No. 1293. [Shortest Path in a Grid with Obstacles Elimination](cc/bfs/ShortestPath.h) (Hard)
