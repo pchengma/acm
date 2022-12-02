@@ -454,6 +454,7 @@ Learn a new algorithm every day!
 - No. 1641. [Count Sorted Vowel Strings](cc/math/countVowelStrings.cc) (Medium)
 - No. 1642. [Furthest Building You Can Reach](cc/stack/FurthestBuilding.h) (Medium)
 - No. 1647. [Minimum Deletions to Make Character Frequencies Unique](cc/str/MinDeletions.h) (Medium)
+- No. 1657. [Determine if Two Strings Are Close](c/sort/closeStrings.c) (Medium)
 - No. 1658. [Minimum Operations to Reduce X to Zero](cc/sliding_window/MinOperations.h) (Medium)
 - No. 1662. [Check If Two String Arrays are Equivalent](cc/str/ArrayStringsAreEqual.h) (Easy)
 - No. 1663. [Smallest String With A Given Numeric Value](cc/str/getSmallestString.cc) (Medium)
