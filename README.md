@@ -52,6 +52,7 @@ Learn a new algorithm every day!
 - No. 40. [Combination Sum II](c/backtracking/combinationSum.c) (Medium)
 - No. 41. [First Missing Positive](c/sort/firstMissingPositive.c) (Hard)
 - No. 42. [Trapping Rain Water](cc/two_ptr/Trap.h) (Hard)
+- No. 43. [Multiply Strings](c/str/multiply.c) (Medium)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
 - No. 48. [Rotate Image](cc/vector/Rotate.h) (Medium)
 - No. 49. [Group Anagrams](cc/map/GroupAnagrams.h) (Medium)
