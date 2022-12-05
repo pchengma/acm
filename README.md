@@ -321,7 +321,7 @@ Learn a new algorithm every day!
 - No. 869. [Reordered Power of 2](cc/str/ReorderedPowerOf2.h) (Medium)
 - No. 871. [Minimum Number of Refueling Stops](cc/queue/MinRefuelStops.h) (Hard)
 - No. 875. [Koko Eating Bananas](cc/binary_search/minEatingSpeed.cc) (Medium)
-- No. 876. [Middle of the Linked List](cc/ll/middleNode.cc) (Easy)
+- No. 876. [Middle of the Linked List](c/ll/middleNode.c) (Easy)
 - No. 878. [Nth Magical Number](cc/math/nthMagicalNumber.cc) (Hard)
 - No. 881. [Boats to Save People](cc/two_ptr/numRescueBoats.cc) (Medium)
 - No. 890. [Find and Replace Pattern](cc/str/FindAndReplacePattern.h) (Medium)
