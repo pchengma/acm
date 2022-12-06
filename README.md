@@ -183,6 +183,7 @@ Learn a new algorithm every day!
 - No. 318. [Maximum Product of Word Lengths](cc/hash/MaxProduct.h) (Medium)
 - No. 322. [Coin Change](cc/dp/CoinChange.h) (Medium)
 - No. 326. [Power of Three](cc/math/IsPowerOfThree.h) (Easy)
+- No. 328. [Odd Even Linked List](c/linked_list/oddEvenList.c) (Medium)
 - No. 329. [Longest Increasing Path in a Matrix](cc/dfs/LongestIncreasingPath.h) (Hard)
 - No. 334. [Increasing Triplet Subsequence](cc/vector/IncreasingTriplet.h) (Medium)
 - No. 336. [Palindrome Pairs](cc/stack/PalindromePairs.h) (Hard)
