@@ -417,6 +417,7 @@ Learn a new algorithm every day!
   No. 1335. [Minimum Difficulty of a Job Schedule](cc/dp/MinDifficulty.h) (Hard)
 - No. 1337. [The K Weakest Rows in a Matrix](cc/set/kWeakestRows.cc) (Easy)
 - No. 1338. [Reduce Array Size to The Half](cc/greedy/MinSetSize.h) (Medium)
+- No. 1339. [Maximum Product of Splitted Binary Tree]() (Medium)
 - No. 1342. [Number of Steps to Reduce a Number to Zero](cc/array/NumberOfSteps.h) (Easy)
 - No. 1345. [Jump Game IV](java/graph/MinJumps.java) (Hard)
 - No. 1354. [Construct Target Array With Multiple Sums](cc/stack/IsPossible.h) (Hard)
