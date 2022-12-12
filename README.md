@@ -65,6 +65,7 @@ Learn a new algorithm every day!
 - No. 62. [Unique Paths](cc/dp/UniquePaths.h) (Medium)
 - No. 63. [Unique Paths II](cc/dp/UniquePathsWithObstacles.h) (Medium)
 - No. 67. [Add Binary](cc/bitwise/addBinary.cc) (Easy)
+- No. 70. [Climbing Stairs](c/dp/climbStairs.c) (Easy)
 - No. 71. [Simplify Path](cc/stack/simplifyPath.cc) (Medium)
 - No. 74. [Search a 2D Matrix](cc/array/searchMatrix.cc) (Medium)
 - No. 76. [Minimum Window Substring]() (Hard)
