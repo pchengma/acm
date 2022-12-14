@@ -128,6 +128,7 @@ Learn a new algorithm every day!
 - No. 188. [Best Time to Buy and Sell Stock IV](cc/dp/MaxProfit.h) (Hard)
 - No. 189. [Rotate Array](cc/array/rotate.h) (Medium)
 - No. 191. [Number of 1 Bits](cc/bitwise/HammingWeight.h) (Easy)
+- No. 198. [House Robber](c/dp/rob.c) (Medium)
 - No. 199. [Binary Tree Right Side View](cc/tree/RightSideView.h) (Medium)
 - No. 200. [Number of Islands](cc/vector/NumIslands.h) (Medium)
 </details>
