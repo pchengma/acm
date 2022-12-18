@@ -297,6 +297,7 @@ Learn a new algorithm every day!
 - No. 718. [Maximum Length of Repeated Subarray](cc/dp/FindLength.h) (Medium)
 - No. 729. [My Calendar I](cc/design/MyCalendar.h) (Medium)
 - No. 732. [My Calendar III](cc/design/MyCalendarThree.h) (Hard)
+- No. 739. [Daily Temperatures](c/stack/dailyTemperatures.c) (Medium)
 - No. 740. [Delete and Earn](java/dp/DeleteAndEarn.java) (Medium)
 - No. 743. [Network Delay Time](cc/graph/networkDelayTime.cc) (Medium)
 - No. 745. [Prefix and Suffix Search](cc/prefix/WordFilter.h) (Hard)
