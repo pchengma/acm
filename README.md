@@ -319,6 +319,7 @@ Learn a new algorithm every day!
 - No. 823. [Binary Trees With Factors](cc/tree/NumFactoredBinaryTrees.h) (Medium)
 - No. 835. [Image Overlap](cc/map/LargestOverlap.h) (Medium)
 - No. 838. [Push Dominoes](cc/str/PushDominoes.h) (Medium)
+- No. 841. [Keys and Rooms](c/dfs/canVisitAllRooms.c) (Medium)
 - No. 844. [Backspace String Compare](cc/str/backspaceCompare.cc) (Easy)
 - No. 847. [Shortest Path Visiting All Nodes](java/graph/shortestPathLength.java) (Hard)
 - No. 849. [Maximize Distance to Closest Person](java/ll/MaxDistToClosest.java) (Medium)
