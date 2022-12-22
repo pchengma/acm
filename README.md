@@ -317,6 +317,7 @@ Learn a new algorithm every day!
 - No. 814. [Binary Tree Pruning](cc/tree/PruneTree.h) (Medium)
 - No. 820. [Short Encoding of Words](cc/str/MinimumLengthEncoding.h) (Medium)
 - No. 823. [Binary Trees With Factors](cc/tree/NumFactoredBinaryTrees.h) (Medium)
+- No. 834. [Sum of Distances in Tree](c/dfs/sumOfDistancesInTree.c) (Hard)
 - No. 835. [Image Overlap](cc/map/LargestOverlap.h) (Medium)
 - No. 838. [Push Dominoes](cc/str/PushDominoes.h) (Medium)
 - No. 841. [Keys and Rooms](c/dfs/canVisitAllRooms.c) (Medium)
