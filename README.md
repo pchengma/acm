@@ -532,3 +532,10 @@ Learn a new algorithm every day!
 - No. 2256. [Minimum Average Difference](c/prefix_sum/minimumAverageDifference.c) (Medium)
 
 </details>
+
+<details open>
+<summary><b> 2301-2400 </b></summary>
+
+- No. 2389. [Longest Subsequence With Limited Sum](c/sort/answerQueries.c) (Easy)
+
+</details>
