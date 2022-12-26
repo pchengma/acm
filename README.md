@@ -59,6 +59,7 @@ Learn a new algorithm every day!
 - No. 51. [N-Queens](cc/recursive/NQueens.h) (Hard)
 - No. 52. [N-Queens II](cc/bitmask/TotalNQueens.h) (Hard)
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
+- No. 55. [Jump Game](c/math/canJump.c) (Medium)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
 - No. 59. [Spiral Matrix II](cc/vector/generateMatrix.cc) (Medium)
 - No. 61. [Rotate List](cc/ll/rotateRight.cc) (Medium)
