@@ -498,6 +498,7 @@ Learn a new algorithm every day!
 <summary><b> 1801-1900 </b></summary>
 
 - No. 1832. [Check if the Sentence Is Pangram](cc/set/CheckIfPangram.h) (Easy)
+- No. 1834. [Single-Threaded CPU](c/stack/getOrder.c) (Medium)
 
 </details>
 
