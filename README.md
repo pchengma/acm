@@ -309,6 +309,7 @@ Learn a new algorithm every day!
 - No. 785. [Is Graph Bipartite?](cc/graph/isBipartite.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 792. [Number of Matching Subsequences](cc/binary_search/NumMatchingSubseq.h) (Medium)
+- No. 797. [All Paths From Source to Target](c/dfs/allPathsSourceTarget.c) (Medium)
 - No. 799. [Champagne Tower](cc/tree/champagneTower.cc) (Medium)
 </details>
 
