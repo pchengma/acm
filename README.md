@@ -363,6 +363,7 @@ Learn a new algorithm every day!
 - No. 968. [Binary Tree Cameras](cc/dp/MinCameraCover.h) (Hard)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
 - No. 976. [Largest Perimeter Triangle](cc/vector/LargestPerimeter.h) (Easy)
+- No. 980. [Unique Paths III]() (Hard)
 - No. 981. [Time Based Key-Value Store](cc/design/TimeMap.h) (Medium)
 - No. 985. [Sum of Even Numbers After Queries](cc/vector/SumEvenAfterQueries.h) (Medium)
 - No. 987. [Vertical Order Traversal of a Binary Tree](cc/bfs/VerticalTraversal.h) (Hard)
