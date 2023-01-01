@@ -171,7 +171,7 @@ Learn a new algorithm every day!
 - No. 284. [Peeking Iterator](cc/design/PeekingIterator.h) (Medium)
 - No. 287. [Find the Duplicate Number](cc/binary_search/findDuplicate.cc) (Medium)
 - No. 289. [Game of Life](cc/vector/gameOfLife.cc) (Medium)
-- No. 290. [Word Pattern](cc/str/wordPattern.cc) (Easy)
+- No. 290. [Word Pattern](c/hash/wordPattern.c) (Easy)
 - No. 295. [Find Median from Data Stream](cc/heap/MedianFinder.h) (Hard)
 - No. 300. [Longest Increasing Subsequence](cc/dp/LengthOfLIS.h) (Medium)
 </details>
