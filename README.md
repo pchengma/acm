@@ -357,6 +357,7 @@ Learn a new algorithm every day!
 - No. 936. [Stamping The Sequence](cc/greedy/MovesToStamp.h) (Hard)
 - No. 938. [Range Sum of BST](c/tree/rangeSumBST.c) (Easy)
 - No. 941. [Valid Mountain Array](cc/vector/validMountainArray.cc) (Easy)
+- No. 944. [Delete Columns to Make Sorted](c/str/minDeletionSize.c) (Easy)
 - No. 946. [Validate Stack Sequences](cc/greedy/validateStackSequences.cc) (Medium)
 - No. 948. [Bag of Tokens](cc/sort/BagOfTokensScore.h) (Medium)
 - No. 967. [Numbers With Same Consecutive Differences](cc/dfs/NumsSameConsecDiff.h) (Medium)
