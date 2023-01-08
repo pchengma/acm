@@ -119,6 +119,7 @@ Learn a new algorithm every day!
 - No. 145. [Binary Tree Postorder Traversal](cc/tree/postorderTraversal.cc) (Easy)
 - No. 147. [Insertion Sort List](cc/ll/insertionSortList.cc) (Medium)
 - No. 148. [Sort List](cc/ll/sortList.cc) (Medium)
+- No. 149. [Max Points on a Line](c/hash/maxPoints.c) (Hard)
 - No. 150. [Evaluate Reverse Polish Notation](c/stack/evalRPN.c) (Medium)
 - No. 151. [Reverse Words in a String](c/str/reverseWords.c) (Medium)
 - No. 160. [Intersection of Two Linked Lists](cc/ll/GetIntersectionNode.h) (Easy)
