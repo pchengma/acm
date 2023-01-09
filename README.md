@@ -115,7 +115,7 @@ Learn a new algorithm every day!
 - No. 141. [Linked List Cycle](cc/ll/hasCycle.cc) (Easy)
 - No. 142. [Linked List Cycle II](cc/ll/detectCycle.cc) (Medium)
 - No. 143. [Reorder List](cc/ll/reorderList.cc) (Medium)
-- No. 144. [Binary Tree Preorder Traversal](cc/tree/traversal.cc) (Easy)
+- No. 144. [Binary Tree Preorder Traversal](c/tree/traversal.c) (Easy)
 - No. 145. [Binary Tree Postorder Traversal](cc/tree/postorderTraversal.cc) (Easy)
 - No. 147. [Insertion Sort List](cc/ll/insertionSortList.cc) (Medium)
 - No. 148. [Sort List](cc/ll/sortList.cc) (Medium)
