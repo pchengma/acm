@@ -85,6 +85,8 @@ Learn a new algorithm every day!
 - No. 97. [Interleaving String](cc/dp/IsInterleave.h) (Medium)
 - No. 98. [Validate Binary Search Tree](cc/tree/IsValidBST.h) (Medium)
 - No. 99. [Recover Binary Search Tree](cc/tree/recoverTree.cc) (Medium)
+- No. 100. [Same Tree](c/tree/isSameTree.c) (Easy)
+
 </details>
 
 <details open>
