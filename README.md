@@ -449,6 +449,7 @@ Learn a new algorithm every day!
 <summary><b> 1401-1500 </b></summary>
 
 - No. 1423. [Maximum Points You Can Obtain from Cards](cc/sliding_window/MaxScore.h) (Medium)
+- No. 1443. [Minimum Time to Collect All Apples in a Tree](c/graph/minTime.c) (Medium)
 - No. 1446. [Consecutive Characters](cc/str/maxPower.cc) (Easy)
 - No. 1448. [Count Good Nodes in Binary Tree](cc/dfs/GoodNodes.h) (Medium)
 - No. 1457. [Pseudo-Palindromic Paths in a Binary Tree](cc/dfs/PseudoPalindromicPaths.h) (Medium)
