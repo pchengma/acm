@@ -464,6 +464,7 @@ Learn a new algorithm every day!
 <summary><b> 1501-1600 </b></summary>
 
 - No. 1510. [Stone Game IV](cc/dp/winnerSquareGame.cc) (Hard)
+- No. 1519. [Number of Nodes in the Sub-Tree With the Same Label](c/graph/countSubTrees.c) (Medium)
 - No. 1531. [String Compression II](cc/str/GetLengthOfOptimalCompression.h) (Hard)
 - No. 1544. [Make The String Great](c/str/makeGood.c) (Easy)
 - No. 1578. [Minimum Time to Make Rope Colorful](cc/deduplicate/MinCost.h) (Medium)
