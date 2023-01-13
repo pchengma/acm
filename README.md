@@ -542,6 +542,7 @@ Learn a new algorithm every day!
 
 - No. 2225. [Find Players With Zero or One Losses](c/hash/findWinners.c) (Medium)
 - No. 2244. [Minimum Rounds to Complete All Tasks](c/hash/minimumRounds.c) (Medium)
+- No. 2246. [Longest Path With Different Adjacent Characters](c/graph/longestPath.c) (Hard)
 - No. 2256. [Minimum Average Difference](c/prefix_sum/minimumAverageDifference.c) (Medium)
 - No. 2279. [Maximum Bags With Full Capacity of Rocks](c/sort/maximumBags.c) (Medium)
 </details>
