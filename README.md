@@ -546,11 +546,19 @@ Learn a new algorithm every day!
 - No. 2246. [Longest Path With Different Adjacent Characters](c/graph/longestPath.c) (Hard)
 - No. 2256. [Minimum Average Difference](c/prefix_sum/minimumAverageDifference.c) (Medium)
 - No. 2279. [Maximum Bags With Full Capacity of Rocks](c/sort/maximumBags.c) (Medium)
+
 </details>
 
 <details open>
 <summary><b> 2301-2400 </b></summary>
 
 - No. 2389. [Longest Subsequence With Limited Sum](c/sort/answerQueries.c) (Easy)
+
+</details>
+
+<details open>
+<summary><b> 2401-2500 </b></summary>
+
+- No. 2421. [Number of Good Paths](c/disjoint_set/numberOfGoodPaths.c) (Hard)
 
 </details>
