@@ -61,6 +61,7 @@ Learn a new algorithm every day!
 - No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
 - No. 55. [Jump Game](c/math/canJump.c) (Medium)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
+- No. 57. [Insert Interval](c/array/insert.c) (Medium)
 - No. 59. [Spiral Matrix II](cc/vector/generateMatrix.cc) (Medium)
 - No. 61. [Rotate List](cc/ll/rotateRight.cc) (Medium)
 - No. 62. [Unique Paths](cc/dp/UniquePaths.h) (Medium)
