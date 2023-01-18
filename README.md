@@ -356,6 +356,7 @@ Learn a new algorithm every day!
 - No. 905. [Sort Array By Parity](cc/two_ptr/sortArrayByParity.cc) (Easy)
 - No. 907. [Sum of Subarray Minimums](c/stack/sumSubarrayMins.c) (Medium)
 - No. 916. [Word Subsets](cc/str/WordSubsets.h) (Medium)
+- No. 918. [Maximum Sum Circular Subarray](c/array/maxSubarraySumCircular.c) (Medium)
 - No. 923. [3Sum With Multiplicity](cc/two_sum/threeSumMulti.cc) (Medium)
 - No. 926. [Flip String to Monotone Increasing](c/dp/minFlipsMonoIncr.c) (Medium)
 - No. 931. [Minimum Falling Path Sum](c/graph/minFallingPathSum.c) (Medium)
