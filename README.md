@@ -369,6 +369,7 @@ Learn a new algorithm every day!
 - No. 967. [Numbers With Same Consecutive Differences](cc/dfs/NumsSameConsecDiff.h) (Medium)
 - No. 968. [Binary Tree Cameras](cc/dp/MinCameraCover.h) (Hard)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
+- No. 974. [Subarray Sums Divisible by K](c/array/subarraysDivByK.c) (Medium)
 - No. 976. [Largest Perimeter Triangle](cc/vector/LargestPerimeter.h) (Easy)
 - No. 980. [Unique Paths III]() (Hard)
 - No. 981. [Time Based Key-Value Store](cc/design/TimeMap.h) (Medium)
