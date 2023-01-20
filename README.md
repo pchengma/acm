@@ -243,6 +243,7 @@ Learn a new algorithm every day!
 - No. 473. [Matchsticks to Square](cc/dp/Makesquare.h) (Medium)
 - No. 474. [Ones and Zeroes](cc/dp/FindMaxForm.h) (Medium)
 - No. 476. [Number Complement](cc/math/findComplement.cc) (Easy)
+- No. 491. [Non-decreasing Subsequences](c/backtracking/findSubsequences.c) (Medium)
 </details>
 
 <details open>
