@@ -82,6 +82,7 @@ Learn a new algorithm every day!
 - No. 88. [Merge Sorted Array](cc/vector/merge.cc) (Easy)
 - No. 91. [Decode Ways](cc/dp/NumDecodings.h) (Medium)
 - No. 92. [Reverse Linked List II](cc/ll/ReverseBetween.h) (Medium)
+- No. 93. [Restore IP Addresses](c/dfs/restoreIpAddresses.c) (Medium)
 - No. 94. [Binary Tree Inorder Traversal](cc/tree/inorderTraversal.cc) (Easy)
 - No. 97. [Interleaving String](cc/dp/IsInterleave.h) (Medium)
 - No. 98. [Validate Binary Search Tree](cc/tree/IsValidBST.h) (Medium)
