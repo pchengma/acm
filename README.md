@@ -110,7 +110,7 @@ Learn a new algorithm every day!
 - No. 126. [Word Ladder II](cc/str/FindLadders.h) (Hard)
 - No. 127. [Word Ladder](cc/str/ladderLength.cc) (Hard)
 - No. 128. [Longest Consecutive Sequence](cc/set/LongestConsecutive.h) (Medium)
-- No. 131. [Palindrome Partitioning](cc/dp/partition.cc) (Medium)
+- No. 131. [Palindrome Partitioning](c/dp/partition.c) (Medium)
 - No. 133. [Clone Graph](cc/graph/cloneGraph.cc) (Medium)
 - No. 134. [Gas Station](cc/math/canCompleteCircuit.cc) (Medium)
 - No. 135. [Candy](cc/dp/Candy.h) (Hard)
