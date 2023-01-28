@@ -205,6 +205,7 @@ Learn a new algorithm every day!
 - No. 345. [Reverse Vowels of a String](cc/str/ReverseVowels.h) (Easy)
 - No. 347. [Top K Frequent Elements](cc/heap/topKFrequent.cc) (Medium)
 - No. 350. [Intersection of Two Arrays II](cc/map/intersect.cc) (Easy)
+- No. 352. [Data Stream as Disjoint Intervals](c/design/SummaryRange.c) (Hard)
 - No. 354. [Russian Doll Envelopes](cc/binary_search/MaxEnvelopes.h) (Hard)
 - No. 363. [Max Sum of Rectangle No Larger Than K](cc/vector/MaxSumSubmatrix.h) (Hard)
 - No. 374. [Guess Number Higher or Lower](c/binary_search/guessNumber.c) (Easy)
