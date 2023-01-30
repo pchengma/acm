@@ -408,6 +408,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1101-1200 </b></summary>
 
+- No. 1137. [N-th Tribonacci Number](c/math/tribonacci.c) (Easy)
 - No. 1143. [Longest Common Subsequence](c/dp/longestCommonSubsequence.c) (Medium)
 - No. 1155. [Number of Dice Rolls With Target Sum](cc/dp/NumRollsToTarget.h) (Medium)
 - No. 1192. [Critical Connections in a Network](cc/graph/criticalConnections.h) (Hard)
