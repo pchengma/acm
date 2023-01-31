@@ -484,6 +484,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 1601-1700 </b></summary>
 
+- No. 1626. [Best Team With No Conflicts](c/dp/bestTeamScore.c) (Medium)
 - No. 1631. [Path With Minimum Effort](cc/graph/minimumEffortPath.cc) (Medium)
 - No. 1641. [Count Sorted Vowel Strings](cc/math/countVowelStrings.cc) (Medium)
 - No. 1642. [Furthest Building You Can Reach](cc/stack/FurthestBuilding.h) (Medium)
