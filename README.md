@@ -399,6 +399,7 @@ Learn a new algorithm every day!
 - No. 1047. [Remove All Adjacent Duplicates In String](c/stack/removeDuplicates.c) (Easy)
 - No. 1048. [Longest String Chain](cc/dp/LongestStrChain.h) (Medium)
 - No. 1061. [Lexicographically Smallest Equivalent String](c/str/smallestEquivalentString.c) (Medium)
+- No. 1071. [Greatest Common Divisor of Strings](c/str/gcdOfStrings.c) (Easy)
 - No. 1074. [Number of Submatrices That Sum to Target](cc/prefix/NumSubmatrixSumTarget.h) (Hard)
 - No. 1090. [Convert Binary Number in a Linked List to Integer](cc/math/getDecimalValue.cc) (Easy)
 - No. 1091. [Shortest Path in Binary Matrix](cc/graph/shortestPathBinaryMatrix.cc) (Medium)
