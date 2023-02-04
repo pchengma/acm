@@ -264,7 +264,7 @@ Learn a new algorithm every day!
 - No. 560. [Subarray Sum Equals K](java/sum/SubarraySum.java) (Medium)
 - No. 563. [Binary Tree Tilt](cc/tree/findTilt.cc) (Easy)
 - No. 566. [Reshape the Matrix](cc/vector/matrixReshape.cc) (Easy)
-- No. 567. [Permutation in String](java/permutation/CheckInclusion.java) (Medium)
+- No. 567. [Permutation in String](c/sliding_window/checkInclusion.c) (Medium)
 - No. 576. [Out of Boundary Paths](cc/dp/FindPaths.h) (Medium)
 - No. 581. [Shortest Unsorted Continuous Subarray](cc/sort/findUnsortedSubarray.cc) (Medium)
 - No. 583. [Delete Operation for Two Strings](cc/dp/MinDistance.h) (Medium)
