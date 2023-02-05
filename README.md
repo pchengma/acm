@@ -236,7 +236,7 @@ Learn a new algorithm every day!
 - No. 421. [Maximum XOR of Two Numbers in an Array](cc/math/maxXOR.cc) (Medium)
 - No. 429. [N-ary Tree Level Order Traversal](cc/bfs/LevelOrder.h) (Medium)
 - No. 433. [Minimum Genetic Mutation](cc/bfs/MinMutation.h) (Medium)
-- No. 438. [Find All Anagrams in a String](cc/sliding_window/findAnagrams.h) (Medium)
+- No. 438. [Find All Anagrams in a String](c/sliding_window/findAnagrams.c) (Medium)
 - No. 446. [Arithmetic Slices II - Subsequence](c/dp/numberOfArithmeticSlices.c) (Hard)
 - No. 452. [Minimum Number of Arrows to Burst Balloons](c/sort/findMinArrowShots.c) (Medium)
 - No. 454. [4Sum II](cc/two_sum/fourSumCount.h) (Medium)
