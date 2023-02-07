@@ -358,6 +358,7 @@ Learn a new algorithm every day!
 
 - No. 901. [Online Stock Span](c/stack/stockSpannerFree.c) (Medium)
 - No. 902. [Numbers At Most N Given Digit Set](cc/dp/atMostNGivenDigitSet.cc) (Hard)
+- No. 904. [Fruit Into Baskets](c/hash/totalFruit.c) (Medium)
 - No. 905. [Sort Array By Parity](cc/two_ptr/sortArrayByParity.cc) (Easy)
 - No. 907. [Sum of Subarray Minimums](c/stack/sumSubarrayMins.c) (Medium)
 - No. 916. [Word Subsets](cc/str/WordSubsets.h) (Medium)
