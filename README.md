@@ -568,6 +568,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 2301-2400 </b></summary>
 
+- No. 2306. [Naming a Company](c/dp/distinctNames.c) (Hard)
 - No. 2389. [Longest Subsequence With Limited Sum](c/sort/answerQueries.c) (Easy)
 
 </details>
