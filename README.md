@@ -416,6 +416,7 @@ Learn a new algorithm every day!
 - No. 1137. [N-th Tribonacci Number](c/math/tribonacci.c) (Easy)
 - No. 1143. [Longest Common Subsequence](c/dp/longestCommonSubsequence.c) (Medium)
 - No. 1155. [Number of Dice Rolls With Target Sum](cc/dp/NumRollsToTarget.h) (Medium)
+- No. 1162. [As Far from Land as Possible](c/array/maxDistance.c) (Medium)
 - No. 1192. [Critical Connections in a Network](cc/graph/criticalConnections.h) (Hard)
 - No. 1200. [Minimum Absolute Difference](cc/sort/minimumAbsDifference.cc) (Easy)
 </details>
