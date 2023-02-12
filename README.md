@@ -578,5 +578,6 @@ Learn a new algorithm every day!
 <summary><b> 2401-2500 </b></summary>
 
 - No. 2421. [Number of Good Paths](c/disjoint_set/numberOfGoodPaths.c) (Hard)
+- No. 2477. [Minimum Fuel Cost to Report to the Capital](c/graph/minimumFuelCost.c) (Medium)
 
 </details>
