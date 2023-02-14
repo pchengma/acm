@@ -12,7 +12,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20230211.">
+    <list default="true" id="2190a7e7-26fc-414d-9da5-50184cf270b6" name="Default Changelist" comment="Updated daily exercises 20230212.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -558,14 +558,8 @@
       <workItem from="1675818663781" duration="460000" />
       <workItem from="1675918628146" duration="117000" />
       <workItem from="1676001048255" duration="2550000" />
-      <workItem from="1676218203438" duration="2000" />
-    </task>
-    <task id="LOCAL-00394" summary="Updated daily exercises 20221217.">
-      <created>1671241733739</created>
-      <option name="number" value="00394" />
-      <option name="presentableId" value="LOCAL-00394" />
-      <option name="project" value="LOCAL" />
-      <updated>1671241733739</updated>
+      <workItem from="1676218203438" duration="106000" />
+      <workItem from="1676388442980" duration="2000" />
     </task>
     <task id="LOCAL-00395" summary="Updated daily exercises 20221218.">
       <created>1671324781862</created>
@@ -903,7 +897,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676087783699</updated>
     </task>
-    <option name="localTasksCounter" value="443" />
+    <task id="LOCAL-00443" summary="Updated daily exercises 20230212.">
+      <created>1676218298914</created>
+      <option name="number" value="00443" />
+      <option name="presentableId" value="LOCAL-00443" />
+      <option name="project" value="LOCAL" />
+      <updated>1676218298914</updated>
+    </task>
+    <option name="localTasksCounter" value="444" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -923,7 +924,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Updated daily exercises 20230113." />
     <MESSAGE value="Updated daily exercises 20230114." />
     <MESSAGE value="Updated daily exercises 20230115." />
     <MESSAGE value="Updated daily exercises 20230116." />
@@ -948,7 +948,8 @@
     <MESSAGE value="Updated daily exercises 20230209." />
     <MESSAGE value="Updated daily exercises 20230210." />
     <MESSAGE value="Updated daily exercises 20230211." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20230211." />
+    <MESSAGE value="Updated daily exercises 20230212." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated daily exercises 20230212." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
