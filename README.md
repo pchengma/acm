@@ -316,6 +316,7 @@ Learn a new algorithm every day!
 - No. 746. [Min Cost Climbing Stairs](cc/dp/MinCostClimbingStairs.h) (Easy)
 - No. 763. [Partition Labels](cc/greedy/partitionLabels.cc) (Medium)
 - No. 766. [Toeplitz Matrix](cc/vector/IsToeplitzMatrix.h) (Easy)
+- No. 783. [Minimum Distance Between BST Nodes](c/tree/minDiffInBST.c) (Easy)
 - No. 785. [Is Graph Bipartite?](cc/graph/isBipartite.cc) (Medium)
 - No. 790. [Domino and Tromino Tiling](cc/vector/numTilings.cc) (Medium)
 - No. 792. [Number of Matching Subsequences](cc/binary_search/NumMatchingSubseq.h) (Medium)
