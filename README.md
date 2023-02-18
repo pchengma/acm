@@ -160,6 +160,7 @@ Learn a new algorithm every day!
 - No. 223. [Rectangle Area](c/math/computeArea.c) (Medium)
 - No. 224. [Basic Calculator](c/design/calculate.c) (Hard)
 - No. 225. [Implement Stack using Queues](cc/queue/MyStack.h) (Easy)
+- No. 226. [Invert Binary Tree](c/tree/invertTree.c) (Easy)
 - No. 227. [Basic Calculator II](cc/stack/calculate.cc) (Medium)
 - No. 228. [Summary Ranges](cc/str/summaryRanges.cc) (Easy)
 - No. 230. [Kth Smallest Element in a BST](java/tree/KthSmallest.java) (Medium)
