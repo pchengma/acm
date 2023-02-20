@@ -45,7 +45,7 @@ Learn a new algorithm every day!
 - No. 32. [Longest Valid Parentheses](cc/stack/LongestValidParentheses.h) (Medium)
 - No. 33. [Search in Rotated Sorted Array](cc/binary_search/Search.h) (Medium)
 - No. 34. [Find First and Last Position of Element in Sorted Array](cc/binary_search/SearchRange.h) (Medium)
-- No. 35. [Search Insert Position](cc/vector/SearchInsert.h) (Easy)
+- No. 35. [Search Insert Position](c/binary_search/searchInsert.c) (Easy)
 - No. 36. [Valid Sudoku](cc/array/isValidSudoku.cc) (Medium)
 - No. 37. [Sudoku Solver](c/backtracking/solveSudoku.c) (Hard)
 - No. 38. [Count and Say](cc/vector/CountAndSay.h) (Medium)
