@@ -396,6 +396,7 @@ Learn a new algorithm every day!
 - No. 1007. [Minimum Domino Rotations For Equal Row](cc/vector/minDominoRotations.cc) (Medium)
 - No. 1009. [Complement of Base 10 Integer](cc/bitwise/bitwiseComplement.cc) (Easy)
 - No. 1010. [Pairs of Songs With Total Durations Divisible by 60](cc/map/numPairsDivisibleBy60.cc) (Medium)
+- No. 1011. [Capacity To Ship Packages Within D Days](c/binary_search/shipWithinDays.c) (Medium)
 - No. 1015. [Smallest Integer Divisible by K](cc/math/smallestRepunitDivByK.cc) (Medium)
 - No. 1022. [Sum of Root To Leaf Binary Numbers](cc/tree/sumRootToLeaf.cc) (Easy)
 - No. 1026. [Maximum Difference Between Node and Ancestor](c/tree/maxAncestorDiff.c) (Medium)
