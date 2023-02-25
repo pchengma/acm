@@ -107,7 +107,7 @@ Learn a new algorithm every day!
 - No. 117. [Populating Next Right Pointers in Each Node II](cc/tree/connect2.h) (Medium)
 - No. 118. [Pascal's Triangle](cc/vector/generate.cc) (Easy)
 - No. 120. [Triangle](cc/dp/MinimumTotal.h) (Medium)
-- No. 121. [Best Time to Buy and Sell Stock](cc/vector/maxProfit.cc) (Easy)
+- No. 121. [Best Time to Buy and Sell Stock](c/dp/maxProfit121.c) (Easy)
 - No. 124. [Binary Tree Maximum Path Sum](c/tree/maxPathSum.c) (Hard)
 - No. 126. [Word Ladder II](cc/str/FindLadders.h) (Hard)
 - No. 127. [Word Ladder](cc/str/ladderLength.cc) (Hard)
