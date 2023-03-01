@@ -364,6 +364,7 @@ Learn a new algorithm every day!
 - No. 904. [Fruit Into Baskets](c/hash/totalFruit.c) (Medium)
 - No. 905. [Sort Array By Parity](cc/two_ptr/sortArrayByParity.cc) (Easy)
 - No. 907. [Sum of Subarray Minimums](c/stack/sumSubarrayMins.c) (Medium)
+- No. 912. [Sort an Array](c/sort/mergeSort.c) (Medium)
 - No. 916. [Word Subsets](cc/str/WordSubsets.h) (Medium)
 - No. 918. [Maximum Sum Circular Subarray](c/array/maxSubarraySumCircular.c) (Medium)
 - No. 923. [3Sum With Multiplicity](cc/two_sum/threeSumMulti.cc) (Medium)
