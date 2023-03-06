@@ -487,6 +487,7 @@ Learn a new algorithm every day!
 - No. 1510. [Stone Game IV](cc/dp/winnerSquareGame.cc) (Hard)
 - No. 1519. [Number of Nodes in the Sub-Tree With the Same Label](c/graph/countSubTrees.c) (Medium)
 - No. 1531. [String Compression II](cc/str/GetLengthOfOptimalCompression.h) (Hard)
+- No. 1539. [Kth Missing Positive Number](c/array/findKthPositive.c) (Easy)
 - No. 1544. [Make The String Great](c/str/makeGood.c) (Easy)
 - No. 1578. [Minimum Time to Make Rope Colorful](cc/deduplicate/MinCost.h) (Medium)
 - No. 1584. [Min Cost to Connect All Points](cc/graph/minCostConnectPoints.cc) (Medium)
