@@ -216,7 +216,7 @@ Learn a new algorithm every day!
 - No. 377. [Combination Sum IV](cc/dp/CombinationSum4.h) (Medium)
 - No. 378. [Kth Smallest Element in a Sorted Matrix](cc/binary_search/KthSmallest.h) (Medium)
 - No. 380. [Insert Delete GetRandom O(1)](c/design/randomizedSet.c) (Meidum)
-- No. 382. [Linked List Random Node](cc/ll/getRandom.cc) (Medium)
+- No. 382. [Linked List Random Node](c/linked_list/getRandom.c) (Medium)
 - No. 383. [Ransom Note](cc/str/canConstruct.cc) (Easy)
 - No. 387. [First Unique Character in a String](cc/str/firstUniqChar.cc) (Easy)
 - No. 389. [Find the Difference](cc/str/findTheDifference.h) (Easy)
