@@ -96,6 +96,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 101-200 </b></summary>
 
+- No. 101. [Symmetric Tree](c/tree/isSymmetric.c) (Easy)
 - No. 102. [Binary Tree Level Order Traversal](cc/tree/levelOrder.cc) (Medium)
 - No. 104. [Maximum Depth of Binary Tree](cc/tree/maxDepth.cc) (Easy)
 - No. 105. [Construct Binary Tree from Preorder and Inorder Traversal](cc/tree/BuildTree.h) (Medium)
