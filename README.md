@@ -380,6 +380,7 @@ Learn a new algorithm every day!
 - No. 946. [Validate Stack Sequences](cc/greedy/validateStackSequences.cc) (Medium)
 - No. 948. [Bag of Tokens](cc/sort/BagOfTokensScore.h) (Medium)
 - No. 953. [Verifying an Alien Dictionary](c/str/isAlienSorted.c) (Easy)
+- No. 958. [Check Completeness of a Binary Tree](c/tree/isCompleteTree.c) (Medium)
 - No. 967. [Numbers With Same Consecutive Differences](cc/dfs/NumsSameConsecDiff.h) (Medium)
 - No. 968. [Binary Tree Cameras](cc/dp/MinCameraCover.h) (Hard)
 - No. 973. [K Closest Points to Origin](cc/heap/kClosest.cc) (Medium)
