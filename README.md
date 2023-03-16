@@ -100,6 +100,7 @@ Learn a new algorithm every day!
 - No. 102. [Binary Tree Level Order Traversal](cc/tree/levelOrder.cc) (Medium)
 - No. 104. [Maximum Depth of Binary Tree](cc/tree/maxDepth.cc) (Easy)
 - No. 105. [Construct Binary Tree from Preorder and Inorder Traversal](cc/tree/BuildTree.h) (Medium)
+- No. 106. [Construct Binary Tree from Inorder and Postorder Traversal](c/tree/buildTree.c) (Medium)
 - No. 108. [Convert Sorted Array to Binary Search Tree](cc/tree/SortedArrayToBST.h) (Easy)
 - No. 109. [Convert Sorted List to Binary Search Tree](c/tree/sortedListToBST.c) (Medium)
 - No. 112. [Path Sum](cc/tree/HasPathSum.h) (Easy)
