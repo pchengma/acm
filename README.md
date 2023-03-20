@@ -280,7 +280,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 601-700 </b></summary>
 
-- No. 605. [Can Place Flowers](cc/vector/canPlaceFlowers.cc) (Easy)
+- No. 605. [Can Place Flowers](c/greedy/canPlaceFlowers.c) (Easy)
 - No. 606. [Construct String from Binary Tree](cc/tree/Tree2str.h) (Easy)
 - No. 609. [Find Duplicate File in System](cc/map/FindDuplicate.h) (Medium)
 - No. 622. [Design Circular Queue](cc/design/MyCircularQueue.h) (Medium)
