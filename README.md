@@ -582,6 +582,7 @@ Learn a new algorithm every day!
 <summary><b> 2301-2400 </b></summary>
 
 - No. 2306. [Naming a Company](c/dp/distinctNames.c) (Hard)
+- No. 2316. [Count Unreachable Pairs of Nodes in an Undirected Graph](c/disjoint_set/countPairs.c) (Medium)
 - No. 2348. [Number of Zero-Filled Subarrays](c/math/zeroFilledSubarray.c) (Medium)
 - No. 2389. [Longest Subsequence With Limited Sum](c/sort/answerQueries.c) (Easy)
 
