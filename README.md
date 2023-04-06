@@ -439,6 +439,7 @@ Learn a new algorithm every day!
 - No. 1235. [Maximum Profit in Job Scheduling](c/sort/jobScheduling.c) (Hard)
 - No. 1239. [Maximum Length of a Concatenated String with Unique Characters](cc/set/MaxLength.h) (Medium)
 - No. 1249. [Minimum Remove to Make Valid Parentheses](cc/stack/minRemoveToMakeValid.cc) (Medium)
+- No. 1254. [Number of Closed Islands](c/graph/closedIsland.c) (Medium)
 - No. 1260. [Shift 2D Grid](cc/vector/shiftGrid.cc) (Easy)
 - No. 1268. [Search Suggestions System](cc/binary_search/SuggestedProducts.h) (Medium)
 - No. 1207. [Unique Number of Occurrences](c/hash/uniqueOccurrences.c) (Easy)
