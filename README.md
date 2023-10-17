@@ -598,3 +598,10 @@ Learn a new algorithm every day!
 - No. 2477. [Minimum Fuel Cost to Report to the Capital](c/graph/minimumFuelCost.c) (Medium)
 
 </details>
+
+<details open>
+<summary><b> 2601-2700 </b></summary>
+
+- No. 2652. [Sum Multiples](c/math/sumOfMultiples.c) (Easy)
+
+</details>
