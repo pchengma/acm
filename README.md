@@ -602,6 +602,13 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 2601-2700 </b></summary>
 
+- No. 2530. [Maximal Score After Applying K Operations](c/heap/maxKelements.c) (Medium)
+
+</details>
+
+<details open>
+<summary><b> 2601-2700 </b></summary>
+
 - No. 2652. [Sum Multiples](c/math/sumOfMultiples.c) (Easy)
 
 </details>
