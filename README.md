@@ -600,9 +600,10 @@ Learn a new algorithm every day!
 </details>
 
 <details open>
-<summary><b> 2601-2700 </b></summary>
+<summary><b> 2501-2600 </b></summary>
 
 - No. 2530. [Maximal Score After Applying K Operations](c/heap/maxKelements.c) (Medium)
+- No. 2558. [Take Gifts From the Richest Pile](c/array/pickGifts.c) (Easy)
 
 </details>
 
