@@ -10,7 +10,7 @@ Learn a new algorithm every day!
 
 #### LeetCode
 
-<details open>
+<details>
 <summary><b> 1-100 </b></summary>
 
 - No. 1. [Two Sum](cc/vector/twoSum.cc) (Easy)
@@ -55,6 +55,7 @@ Learn a new algorithm every day!
 - No. 42. [Trapping Rain Water](cc/two_ptr/Trap.h) (Hard)
 - No. 43. [Multiply Strings](c/str/multiply.c) (Medium)
 - No. 45. [Jump Game II](c/dp/jump.c) (Medium)
+- No. 46. [Permutations](c/backtracking/permute.c) (Medium)
 - No. 47. [Permutations II](cc/hash/permuteUnique.cc) (Medium)
 - No. 48. [Rotate Image](cc/vector/Rotate.h) (Medium)
 - No. 49. [Group Anagrams](cc/map/GroupAnagrams.h) (Medium)
