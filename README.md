@@ -568,6 +568,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 2101-2200 </b></summary>
 
+- No. 2103. [Rings and Rods](c/array/countPoints.c) (Easy)
 - No. 2131. [Longest Palindrome by Concatenating Two Letter Words](cc/str/LongestPalindrome.h) (Medium)
 - No. 2136. [Earliest Possible Day of Full Bloom](cc/greedy/EarliestFullBloom.h) (Hard)
 
