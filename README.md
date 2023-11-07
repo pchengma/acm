@@ -94,7 +94,7 @@ Learn a new algorithm every day!
 
 </details>
 
-<details open>
+<details>
 <summary><b> 101-200 </b></summary>
 
 - No. 101. [Symmetric Tree](c/tree/isSymmetric.c) (Easy)
@@ -147,7 +147,7 @@ Learn a new algorithm every day!
 - No. 200. [Number of Islands](cc/vector/NumIslands.h) (Medium)
 </details>
 
-<details open>
+<details>
 <summary><b> 201-300 </b></summary>
 
 - No. 203. [Remove Linked List Elements](cc/ll/removeElements.cc) (Easy)
@@ -192,7 +192,7 @@ Learn a new algorithm every day!
 - No. 300. [Longest Increasing Subsequence](cc/dp/LengthOfLIS.h) (Medium)
 </details>
 
-<details open>
+<details>
 <summary><b> 301-400 </b></summary>
 
 - No. 304. [Range Sum Query 2D - Immutable](cc/vector/NumMatrix.h) (Medium)
@@ -234,7 +234,7 @@ Learn a new algorithm every day!
 - No. 399. [Evaluate Division](cc/graph/calcEquation.cc) (Medium)
 </details>
 
-<details open>
+<details>
 <summary><b> 401-500 </b></summary>
 
 - No. 402. [Remove K Digits](cc/stack/removeKdigits.cc) (Medium)
@@ -333,7 +333,7 @@ Learn a new algorithm every day!
 - No. 799. [Champagne Tower](cc/tree/champagneTower.cc) (Medium)
 </details>
 
-<details open>
+<details>
 <summary><b> 801-900 </b></summary>
 
 - No. 804. [Unique Morse Code Words](cc/hash/UniqueMorseRepresentations.h) (Easy)
@@ -364,7 +364,7 @@ Learn a new algorithm every day!
 - No. 899. [Orderly Queue](c/sliding_window/orderlyQueue.c) (Hard)
 </details>
 
-<details open>
+<details>
 <summary><b> 901-1000 </b></summary>
 
 - No. 901. [Online Stock Span](c/stack/stockSpannerFree.c) (Medium)
@@ -609,6 +609,7 @@ Learn a new algorithm every day!
 
 - No. 2530. [Maximal Score After Applying K Operations](c/heap/maxKelements.c) (Medium)
 - No. 2558. [Take Gifts From the Richest Pile](c/array/pickGifts.c) (Easy)
+- No. 2586. [Count the Number of Vowel Strings in Range](c/str/vowelStrings.c) (Easy)
 
 </details>
 
