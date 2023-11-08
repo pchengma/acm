@@ -616,6 +616,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 2601-2700 </b></summary>
 
+- No. 2609. [Find the Longest Balanced Substring of a Binary String](c/logic/findTheLongestBalancedSubstring.c) (Easy)
 - No. 2652. [Sum Multiples](c/math/sumOfMultiples.c) (Easy)
 
 </details>
