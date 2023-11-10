@@ -582,7 +582,7 @@ Learn a new algorithm every day!
 - No. 2246. [Longest Path With Different Adjacent Characters](c/graph/longestPath.c) (Hard)
 - No. 2256. [Minimum Average Difference](c/prefix_sum/minimumAverageDifference.c) (Medium)
 - No. 2279. [Maximum Bags With Full Capacity of Rocks](c/sort/maximumBags.c) (Medium)
-
+- No. 2300. [Successful Pairs of Spells and Potions](c/two_ptr/successfulPairs.c) (Medium)
 </details>
 
 <details open>
