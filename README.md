@@ -150,6 +150,7 @@ Learn a new algorithm every day!
 <details>
 <summary><b> 201-300 </b></summary>
 
+- No. 202. [Happy Number](c/math/isHappy.c) (Easy)
 - No. 203. [Remove Linked List Elements](cc/ll/removeElements.cc) (Easy)
 - No. 206. [Reverse Linked List](cc/ll/reverseList.cc) (Easy)
 - No. 210. [Course Schedule II](cc/graph/findOrder.cc) (Medium)
