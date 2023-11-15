@@ -152,6 +152,7 @@ Learn a new algorithm every day!
 
 - No. 202. [Happy Number](c/math/isHappy.c) (Easy)
 - No. 203. [Remove Linked List Elements](cc/ll/removeElements.cc) (Easy)
+- No. 204. [Count Primes](c/math/countPrimes.c) (Medium)
 - No. 206. [Reverse Linked List](cc/ll/reverseList.cc) (Easy)
 - No. 210. [Course Schedule II](cc/graph/findOrder.cc) (Medium)
 - No. 211. [Design Add and Search Words Data Structure](cc/str/WordDictionary.h) (Medium)
@@ -619,5 +620,6 @@ Learn a new algorithm every day!
 
 - No. 2609. [Find the Longest Balanced Substring of a Binary String](c/logic/findTheLongestBalancedSubstring.c) (Easy)
 - No. 2652. [Sum Multiples](c/math/sumOfMultiples.c) (Easy)
+- No. 2656. [Maximum Sum With Exactly K Elements](c/math/maximizeSum.c) (Easy)
 
 </details>
