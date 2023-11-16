@@ -555,6 +555,7 @@ Learn a new algorithm every day!
 - No. 1926. [Nearest Exit from Entrance in Maze](c/queue/nearestExit.c) (Medium)
 - No. 1962. [Remove Stones to Minimize the Total](c/hash/minStoneSum.c) (Medium)
 - No. 1971. [Find if Path Exists in Graph](c/graph/validPath.c) (Easy)
+- No. 1980. [Find Unique Binary String](cc/str/findDifferentBinaryString.cc) (Medium)
 - No. 1996. [The Number of Weak Characters in the Game](cc/sort/NumberOfWeakCharacters.h) (Medium)
 
 </details>
