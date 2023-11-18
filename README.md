@@ -546,6 +546,7 @@ Learn a new algorithm every day!
 - No. 1832. [Check if the Sentence Is Pangram](cc/set/CheckIfPangram.h) (Easy)
 - No. 1833. [Maximum Ice Cream Bars](c/sliding_window/maxIceCream.c) (Medium)
 - No. 1834. [Single-Threaded CPU](c/stack/getOrder.c) (Medium)
+- No. 1838. [Frequency of the Most Frequent Element](cc/sliding_window/maxFrequency.cc) (Medium)
 - No. 1877. [Minimize Maximum Pair Sum in Array](cc/hash/minPairSum.cc) (Medium)
 
 </details>
