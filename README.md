@@ -61,7 +61,7 @@ Learn a new algorithm every day!
 - No. 49. [Group Anagrams](cc/map/GroupAnagrams.h) (Medium)
 - No. 51. [N-Queens](cc/recursive/NQueens.h) (Hard)
 - No. 52. [N-Queens II](cc/bitmask/TotalNQueens.h) (Hard)
-- No. 53. [Maximum Subarray](cc/array/maxSubArray.cc) (Easy)
+- No. 53. [Maximum Subarray](c/array/maxSubArray.c) (Medium)
 - No. 55. [Jump Game](c/math/canJump.c) (Medium)
 - No. 56. [Merge Intervals](cc/vector/mergeIntervals.cc) (Medium)
 - No. 57. [Insert Interval](c/array/insert.c) (Medium)

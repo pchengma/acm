@@ -1,4 +1,4 @@
-// LeetCode: 53. Maximum Subarray (Easy)
+// LeetCode: 53. Maximum Subarray (Medium)
 #include <iostream>
 
 using namespace std;
