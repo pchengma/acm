@@ -583,6 +583,7 @@ Learn a new algorithm every day!
 <details open>
 <summary><b> 2201-2300 </b></summary>
 
+- No. 2216. [Minimum Deletions to Make Array Beautiful](c/logic/minDeletion.c) (Medium)
 - No. 2225. [Find Players With Zero or One Losses](c/hash/findWinners.c) (Medium)
 - No. 2244. [Minimum Rounds to Complete All Tasks](c/hash/minimumRounds.c) (Medium)
 - No. 2246. [Longest Path With Different Adjacent Characters](c/graph/longestPath.c) (Hard)
